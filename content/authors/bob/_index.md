@@ -52,6 +52,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?hl=en&user=gPJXgaAAAAAJ
+- icon: user
+  icon_pack: fa
+  link: https://psyc.umd.edu/facultyprofile/slevc/l-robert
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -66,4 +69,4 @@ email: "slevc@umd.edu"
 user_groups:
 - Principal Investigator
 ---
-Bob Slevc is an Associate Professor and Director of Graduate Studies in the Department of Psychology, part of the Neuroscience and Cognitive Science program and of the Maryland Language Science Center. 
+Bob Slevc is an Associate Professor and Director of Graduate Studies in the [Department of Psychology](https://psyc.umd.edu), part of the [Neuroscience and Cognitive Science](https://nacs.umd.edu) program and of the [Maryland Language Science Center](http://languagescience.umd.edu). 
