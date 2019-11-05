@@ -32,7 +32,7 @@ tags:
 - Multivariate Pattern Analysis
 - Object Perception
 - Representational Similarity Analysis
-featured: false
+featured: true
 
 links:
 - name: PsyArXiv preprint
