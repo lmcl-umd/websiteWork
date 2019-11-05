@@ -3,7 +3,7 @@ title: "Syntax in music and language: The role of cognitive control "
 authors:
 - bob
 - Jason G. Reitman
-- Brooke M. Okada 
+- okada 
 
 date: "2013-01-01T00:00:00Z"
 doi: ""

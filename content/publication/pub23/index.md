@@ -2,7 +2,7 @@
 title: "Processing structure in language and music: a case for shared reliance on cognitive control"
 authors:
 - bob
-- Brooke M. Okada
+- okada
 
 date: "2015-06-01T00:00:00Z"
 doi: ""

@@ -2,7 +2,7 @@
 title: "Musical training: Contributions to Executive Function"
 authors:
 - bob
-- Brooke M. Okada
+- okada
 
 date: "2017-11-01T00:00:00Z"
 doi: "10.31234/osf.io/2quzn"

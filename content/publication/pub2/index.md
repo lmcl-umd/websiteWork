@@ -3,7 +3,7 @@ title: "Updating musical tonal structure in working memory engages cognitive con
 authors:
 - bob
 - Mattson Ogg
-- Brooke M. Okada
+- okada
 - Jared M. Novick
 
 date: "2019-08-07T00:00:00Z"

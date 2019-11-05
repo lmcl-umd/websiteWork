@@ -4,7 +4,7 @@ authors:
 - bob
 - Yasmeen Faroqi-Shah
 - Sadhvi Saxena 
-- Brooke M. Okada
+- okada
 
 date: "2016-04-01T00:00:00Z"
 doi: "10.1080/02643299308253455"
