@@ -1,8 +1,8 @@
 ---
 title: "The timing of verb selection in Japanese sentence production"
 authors:
-- bob
 - Shota Momma
+- bob
 - Colin Phillips
 
 

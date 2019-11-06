@@ -1,8 +1,8 @@
 ---
 title: "Exchanging elicits: Stem-exchange errors and syntactic category shifts"
 authors:
-- bob
 - Liane Wardlow Lane
+- bob
 - Victor S. Ferreira
 
 

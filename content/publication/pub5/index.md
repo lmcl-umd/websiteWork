@@ -1,10 +1,10 @@
 ---
 title: "Separable neural representations of sound sources: Speaker identity and musical timbres"
 authors:
-- bob
 - Mattson Ogg 
 - Dustin Moraczewski
 - Stefanie E. Kuchinsky
+- bob
 
 date: "2019-07-01T00:00:00Z"
 doi: "10.31234/osf.io/q2fjm"

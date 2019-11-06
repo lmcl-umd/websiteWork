@@ -1,8 +1,8 @@
 ---
 title: "Prosodic structure as a parallel to musical structure"
 authors:
-- bob
 - Christopher C. Heffner
+- bob
 
 date: "2015-12-01T00:00:00Z"
 doi: ""

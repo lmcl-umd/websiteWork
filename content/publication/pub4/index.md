@@ -1,8 +1,8 @@
 ---
 title: "Making research evaluation more transparent: Aligning research philosophy, institutional values, and reporting"
 authors:
-- bob
 - Michael R. Dougherty
+- bob
 - James A. Grand
 
 date: "2019-01-01T00:00:00Z"

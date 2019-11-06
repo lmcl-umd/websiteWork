@@ -2,9 +2,9 @@
 title: "Consonant production patterns of young severely language-delayed children with autism"
 
 authors:
-- bob
 - Joseph P. McCleery
 - Lisa Tully
+- bob
 - Laura Schreibman
 
 date: "2006-05-01T00:00:00Z"

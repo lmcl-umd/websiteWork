@@ -1,10 +1,10 @@
 ---
 title: "Updating musical tonal structure in working memory engages cognitive control"
 authors:
-- bob
 - Mattson Ogg
 - okada
 - Jared M. Novick
+- bob
 
 date: "2019-08-07T00:00:00Z"
 doi: ""

@@ -1,9 +1,9 @@
 ---
 title: "Examining the role of inhibitory control in bilingual language switching"
 authors:
-- bob
 - Alison Shell
 - Jared Linck
+- bob
 
 date: "2015-05-01T00:00:00Z"
 doi: ""

@@ -1,10 +1,10 @@
 ---
 title: "The emergence of semantic meaning in the ventral temporal pathway"
 authors:
-- bob
 - Thomas A. Carlson
 - Ryan A. Simmons
 - Nikolaus Kriegeskorte 
+- bob
 
 date: "2014-01-01T00:00:00Z"
 doi: ""

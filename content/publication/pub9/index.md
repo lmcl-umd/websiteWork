@@ -1,8 +1,8 @@
 ---
 title: "Unaccusativity in sentence production"
 authors:
-- bob
 - Shota Momma
+- bob
 - Colin Phillips
 
 date: "2018-01-01T00:00:00Z"

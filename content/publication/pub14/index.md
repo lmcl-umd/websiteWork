@@ -1,8 +1,8 @@
 ---
 title: "Of papers and pens: Polysemes and homophones in lexical (mis)selection"
 authors:
-- bob
 - Leon Li
+- bob
 
 date: "2016-04-01T00:00:00Z"
 doi: "10.1111/cogs.12402"

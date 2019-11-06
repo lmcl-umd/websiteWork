@@ -1,8 +1,8 @@
 ---
 title: "Acoustic correlates of auditory object and event perception: Speakers, musical timbres and environmental sounds"
 authors:
-- bob
 - Mattson Ogg
+- bob
 
 date: "2019-07-01T00:00:00Z"
 doi: "10.3389/fpsyg.2019.01594"

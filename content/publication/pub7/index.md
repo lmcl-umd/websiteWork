@@ -1,8 +1,8 @@
 ---
 title: "Individual differences in musical training and Executive Functions: A latent variable approach"
 authors:
-- bob
 - okada
+- bob
 
 date: "2018-05-01T00:00:00Z"
 doi: "10.31234/osf.io/ymn5c"

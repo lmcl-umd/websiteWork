@@ -1,8 +1,8 @@
 ---
 title: "Neural mechanisms of music and language"
 authors:
-- bob
 - Mattson Ogg
+- bob
 
 date: "2019-04-01T00:00:00Z"
 doi: ""

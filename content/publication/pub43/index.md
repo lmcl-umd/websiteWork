@@ -2,8 +2,8 @@
 title: "How do speakers avoid ambiguous linguistic expressions?"
 
 authors:
-- bob
 - Victor S.Ferreira
+- bob
 - Erin S. Rogers
 
 date: "2005-07-01T00:00:00Z"

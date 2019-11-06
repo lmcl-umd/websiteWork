@@ -1,9 +1,9 @@
 ---
 title: "Lexical overlap increases syntactic priming in aphasia independently of short-term memory abilities: Evidence against the explicit memory account of the lexical boost"
 authors:
-- bob
 - Hao Yan
 - Randi C. Martin
+- bob
 
 date: "2018-11-01T00:00:00Z"
 doi: ""

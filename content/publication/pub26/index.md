@@ -1,8 +1,8 @@
 ---
 title: "Language production and working memory"
 authors:
-- bob
 - Randi C. Martin
+- bob
 
 date: "2014-04-01T00:00:00Z"
 doi: ""

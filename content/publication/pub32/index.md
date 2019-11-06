@@ -1,8 +1,8 @@
 ---
 title: "Memory disorders and impaired language and communication"
 authors:
-- bob
 - Randi C Martin
+- bob
 
 date: "2012-01-01T00:00:00Z"
 doi: ""

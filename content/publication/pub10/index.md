@@ -1,9 +1,9 @@
 ---
 title: "Grammatical encoding"
 authors:
-- bob
 - Victor S. Ferreira
 - Adam Morgan
+- bob
 
 date: "2018-08-01T00:00:00Z"
 doi: "10.1093/oxfordhb/9780198786825.013.18"

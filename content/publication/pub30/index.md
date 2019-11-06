@@ -1,9 +1,9 @@
 ---
 title: "Music and early language acquisition"
 authors:
-- bob
 - Anthony Brandt
 - Molly Gebrian
+- bob
 
 date: "2012-11-01T00:00:00Z"
 doi: "10.3389/fpsyg.2012.00327"
