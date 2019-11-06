@@ -17,7 +17,11 @@
 {{ end }}
 
 {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
-{{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
+
+<!-- The commented block is if "cards" need to display the "tags" taxonomy. Right now, cars display the "year" taxonomy so that
+the alumni years don't show up in the keywors/topics tags section of the ublications page -->
+<!--{{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}-->
+{{ $js_tag_classes := delimit (apply (apply $item.Params.years "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
 
 <div class="project-card project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}">
   <div class="card">

@@ -28,22 +28,27 @@ subtitle = "<b>*</b> indicates honors"
   [[content.filter_button]]
     name = "2017-2018"
     tag = "2017-2018"
+    year = "2017-2018"
 
   [[content.filter_button]]
     name = "2016-2107"
     tag = "2016-2017"
+    year = "2016-2017"
 
   [[content.filter_button]]
     name = "2015-2106"
     tag = "2015-2016"
+    year = "2015-2016"
 
   [[content.filter_button]]
     name = "2014-2105"
     tag = "2014-2015"
+    year = "2014-2015"
 
   [[content.filter_button]]
     name = "2011-2104"
     tag = "2011-2014"
+    year = "2011-2014"
 
 
 [design]
