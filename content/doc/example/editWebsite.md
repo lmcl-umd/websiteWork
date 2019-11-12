@@ -56,6 +56,7 @@ In order to clone and push edits via git, you must first have git set up on your
 
 ```python
 # clone the repository
+# your commit message should describe the edits made 
 git clone https://github.com/lmcl-umd/websiteWork.git
 
 # deploy edits to lmcl-umd.github.io. repository
@@ -65,6 +66,7 @@ git clone https://github.com/lmcl-umd/websiteWork.git
 git add *
 
 # commit edits to websiteWork repository
+# your commit message should describe the edits made  
 git commit -m "your commit message"
 
 # push edits to websiteWork repository
