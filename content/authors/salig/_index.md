@@ -35,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:lksalig@gmail.com
+  link: mailto:lsalig@umd.edu
 - icon: user
   icon_pack: fa
   link: https://nacs.umd.edu/gradprofile/salig/lauren
