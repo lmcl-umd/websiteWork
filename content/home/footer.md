@@ -48,3 +48,5 @@ subtitle = ""
 +++
 
 [![](/img/lsc_logo.png)](http://languagescience.umd.edu)
+<br>
+Last updated Nov. 2019
