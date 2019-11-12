@@ -115,7 +115,7 @@ contact_links = [ ]
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "lmcl_logo4.png"
+sharing_image = "logo2.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
