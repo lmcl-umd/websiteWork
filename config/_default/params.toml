@@ -48,7 +48,7 @@ description = ""
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "logo2.png"
+logo = "logo3.png"
 
 ############################
 ## Site Features
@@ -115,7 +115,7 @@ contact_links = [ ]
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "logo2.png"
+sharing_image = "logo3.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = ""
