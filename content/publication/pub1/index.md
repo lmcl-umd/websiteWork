@@ -37,6 +37,8 @@ featured: true
 links:
 - name: PsyArXiv preprint
   url: https://psyarxiv.com/t8gp2
+- name: Journal
+  url: https://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_01472
 url_pdf:
 url_code: ''
 url_dataset: ''
