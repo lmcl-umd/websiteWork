@@ -1,13 +1,13 @@
 ---
-title: Overview
-linktitle: 
+title: LMCL Website Overview
+linktitle: Website
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   example:
-    parent: Website
+    parent:
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
@@ -56,17 +56,17 @@ In order to clone and push edits via git, you must first have git set up on your
 
 ```python
 # clone the repository
-# your commit message should describe the edits made 
 git clone https://github.com/lmcl-umd/websiteWork.git
 
 # deploy edits to lmcl-umd.github.io. repository
+# your commit message should describe the edits made 
 ./deploy.sh "your commit message"
 
 # add edits to websiteWork repository
 git add *
 
 # commit edits to websiteWork repository
-# your commit message should describe the edits made  
+# your commit message should describe the edits made 
 git commit -m "your commit message"
 
 # push edits to websiteWork repository
