@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Language and Music Cognition Lab">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="System Design: The LMCL website is built using a Hugo website framework and hosted on Github Pages. We implemented the Hugo Academic theme. The Academic theme uses a series of templates called &ldquo;widgets&rdquo; that can copied and edited as needed to build the site.
+Our website is available at: http://lmcl-umd.github.io.
+System Requirements: In order to edit and update the website, you must have the following installed on your machine:">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://lmcl-umd.github.io./doc/example/editwebsite/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.891726ba3b332d3508fbc99721fa7e80.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academic.cd2646590c208180959ceaa8d07394db.css">
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://lmcl-umd.github.io./doc/example/editwebsite/">
+
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="LMCL">
+  <meta property="og:url" content="https://lmcl-umd.github.io./doc/example/editwebsite/">
+  <meta property="og:title" content="LMCL Website Overview | LMCL">
+  <meta property="og:description" content="System Design: The LMCL website is built using a Hugo website framework and hosted on Github Pages. We implemented the Hugo Academic theme. The Academic theme uses a series of templates called &ldquo;widgets&rdquo; that can copied and edited as needed to build the site.
+Our website is available at: http://lmcl-umd.github.io.
+System Requirements: In order to edit and update the website, you must have the following installed on your machine:"><meta property="og:image" content="https://lmcl-umd.github.io./img/logo3.png">
+  <meta property="twitter:image" content="https://lmcl-umd.github.io./img/logo3.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2019-05-05T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2019-05-05T00:00:00&#43;01:00">
+  
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>LMCL Website Overview | LMCL</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/logo3.png" alt="LMCL"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#headerHome"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publications/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/people/"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/involve/"><span>Get Involved</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/resources/"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/doc/example/bloginfo/">Blog</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/doc/example/calendars/">Google Calendars</a>
+
+  </div>
+  
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/doc/example/editwebsite/">Website</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/doc/example/imacsoftware/">Computer Stuff</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/doc/example/imacsoftware/">iMacs</a>
+      </li>
+      
+      <li >
+        <a href="/doc/example/psychopyupdate/">Psychopy</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#system-design">System Design:</a></li>
+<li><a href="#system-requirements">System Requirements:</a></li>
+<li><a href="#github-repositories">Github Repositories:</a></li>
+<li><a href="#editing-updating-the-website">Editing/Updating the Website:</a></li>
+<li><a href="#helpful-git-commands">Helpful Git Commands:</a></li>
+<li><a href="#code-organization">Code Organization:</a></li>
+<li><a href="#make-edits-without-deploying">Make Edits without Deploying</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>LMCL Website Overview</h1>
+
+          <div class="article-style">
+            
+
+<h3 id="system-design">System Design:</h3>
+
+<p>The LMCL website is built using a <a href="https://gohugo.io/about/what-is-hugo/" target="_blank">Hugo</a> website framework and hosted on <a href="https://pages.github.com" target="_blank">Github Pages</a>. We implemented the Hugo <a href="https://sourcethemes.com/academic/docs/" target="_blank">Academic</a> theme. The Academic theme uses a series of templates called &ldquo;widgets&rdquo; that can copied and edited as needed to build the site.</p>
+
+<p>Our website is available at: <a href="http://lmcl-umd.github.io" target="_blank">http://lmcl-umd.github.io</a>.</p>
+
+<h3 id="system-requirements">System Requirements:</h3>
+
+<p>In order to edit and update the website, you must have the following installed on your machine:</p>
+
+<p><li><a href="https://brew.sh" target="_blank">Homebrew</a></li></p>
+
+<p><li><a href="https://gohugo.io/getting-started/installing/" target="_blank">Hugo</a></li></p>
+
+<p><li><a href="https://help.github.com/en/github/getting-started-with-github/set-up-git" target="_blank">Git</a></li></p>
+
+<h3 id="github-repositories">Github Repositories:</h3>
+
+<p>The code for our website is hosted on Github. The username for our lab&rsquo;s GitHub is <b>lmcl-umd</b>. Contact Dr. Slevc for the password if/when needed for SSH authentication (see &ldquo;Editing the Website&rdquo; below). There are two repositories in which the code lives:
+<li> websiteWork</li>
+<li> lmcl-umd.github.io.</li></p>
+
+<p>The <b>websiteWork</b> repository is where the working code lives while the <b>lmcl-umd.github.io.</b> repository is where the live code lives.</p>
+
+<p><b> Note: You will only ever have to change code in websiteWork and that will automatically update the live code in the lmcl-umd.github.io. repository. </b></p>
+
+<h3 id="editing-updating-the-website">Editing/Updating the Website:</h3>
+
+<p>In order to edit the website, you must clone the websiteWork repository from git onto your local machine. After the website files are locally on your machine, you can make changes. Before you push them back up to the websiteWork repository, run the following code snippet:</p>
+
+<pre><code class="language-python">./deploy.sh &quot;Your commit message&quot;
+</code></pre>
+
+<p>This deploy command will push your edits to the lmcl-umd.github.io. repository and after a couple of minutes, your changes will appear on the live website.</p>
+
+<p>In order to clone and push edits via git, you must first have git set up on your computer and <a href="https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account" target="_blank">authenticate our lmcl-umd GitHub</a> account via your computer&rsquo;s unique SSH key.</p>
+
+<h3 id="helpful-git-commands">Helpful Git Commands:</h3>
+
+<pre><code class="language-python"># clone the repository
+git clone https://github.com/lmcl-umd/websiteWork.git
+
+# deploy edits to lmcl-umd.github.io. repository
+# your commit message should describe the edits made 
+./deploy.sh &quot;your commit message&quot;
+
+# add edits to websiteWork repository
+git add *
+
+# commit edits to websiteWork repository
+# your commit message should describe the edits made 
+git commit -m &quot;your commit message&quot;
+
+# push edits to websiteWork repository
+git push 
+
+</code></pre>
+
+<h3 id="code-organization">Code Organization:</h3>
+
+<p>After you clone the websiteWork repository, you will see a folder called &ldquo;websiteWork&rdquo; on your computer. Within that folder are many, many subdirectories. The main folders most relevant for editing, however, are:</p>
+
+<p><li><b>content:</b> holds all the actual editable content on the site; subdirectories within this folder are named to indicate which sections of the site they house information on</li>
+<li><b>config:</b> holds the more administrative, website configuration files</li>
+<li><b>static:</b> holds images and other files such as publication odds or profile cv&rsquo;s for reference by other folders</li>
+<li><b>layouts:</b> the main back-end of the website that holds all style sheets, and design of the site</li></p>
+
+<p><b> Do NOT ever edit the public folder in this repository</b> It handles the automatic deployment to the main website and should not be edited.</p>
+
+<p>For more information on <a href="https://sourcethemes.com/academic/docs/managing-content/" target="_blank">managing</a> and <a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank">writing</a> content see the Hugo Academic <a href="https://sourcethemes.com/academic/docs/" target="_blank">source documentation</a>.</p>
+
+<h3 id="make-edits-without-deploying">Make Edits without Deploying</h3>
+
+<p>What if you want to just play around and see how something will look before actually deploying to the website?</p>
+
+<p>We also have a version of the website&rsquo;s code (and example code) on DropBox. This code is not live and can be run locally. Enter the <b>lmclSite</b> folder via the terminal and then type the command</p>
+
+<pre><code class="language-python">hugo server
+</code></pre>
+
+<p>Next open a web-browser and type</p>
+
+<pre><code class="language-python">localhost:1313
+</code></pre>
+
+<p>The code will render in the browser.</p>
+
+<p>For access to the DropBox code, contact Dr. Slevc and you will be granted access for editing.</p>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/doc/example/psychopyupdate/" rel="next">Psychopy Tips and Tricks</a>
+  </div>
+  
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on May 5, 2019</p>
+
+          
+
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.130521ecfc6f534c52c158217bbff718.js"></script>
+
+    
+
+
+
+
+
+
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

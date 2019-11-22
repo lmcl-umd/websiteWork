@@ -4,7 +4,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
-title = "Our Past and Present Collaborators<br><br>"
+title = "Recent Collaborators<br><br>"
 subtitle = ""
 
 
@@ -13,7 +13,7 @@ subtitle = ""
   icon_pack = ""
   link = ""
   name = "<center>[![](/img/collabs/umd.png)](https://umd.edu)</center>"
-  description = "[Colin Phillips](http://www.colinphillips.net), Yasmeen Faroqi-Shah, [Rochelle Newman](https://hesp.umd.edu/facultyprofile/newman/rochelle), [Jared Novick](https://hesp.umd.edu/facultyprofile/novick/jared), [Jared Linck](https://www.casl.umd.edu/jared-linck)"
+  description = "[Colin Phillips](http://www.colinphillips.net), [Yasmeen Faroqi-Shah](https://hesp.umd.edu/facultyprofile/faroqi-shah/yasmeen), [Rochelle Newman](https://hesp.umd.edu/facultyprofile/newman/rochelle), [Jared Novick](https://hesp.umd.edu/facultyprofile/novick/jared), [Jared Linck](https://nacs.umd.edu/facultyprofile/linck/jared)"
 
 [[feature]]
   icon = ""
@@ -26,15 +26,8 @@ subtitle = ""
   icon = ""
   icon_pack = ""
   link = ""
-  name = "<center>[![](/img/collabs/hopkins.png)](http://www.jhu.edu)</center>"
-  description = "[Leon Li](http://sites.krieger.jhu.edu/courtney-lab/people/)"
-
-[[feature]]
-  icon = ""
-  icon_pack = ""
-  link = ""
-  name = "<center>[![](/img/collabs/duke.png)](https://www.duke.edu)</center>"
-  description = "[Ryan Simmons](https://www.researchgate.net/profile/Ryan_Simmons2)"
+  name = "<center>[![](/img/collabs/duke.png)](http://www.duke.edu)</center>"
+  description = "[Leon Li](https://psychandneuro.duke.edu/people/leon-li), [Ryan Simmons](https://www.researchgate.net/profile/Ryan_Simmons2)"
 
 [[feature]]
   icon = ""
@@ -42,13 +35,6 @@ subtitle = ""
   link = ""
   name = "<center>[![](/img/collabs/uconn.png)](https://uconn.edu)</center>"
   description = "[Chris Heffner](http://ling.umd.edu/~heffner/)"
-
-[[feature]]
-  icon = ""
-  icon_pack = ""
-  link = ""
-  name = "<center>[![](/img/collabs/bc.png)](https://www.bc.edu)</center>"
-  description = "<br>[Angela Xiaoxue He](https://sites.google.com/view/angelaxiaoxuehe)"
 
 [[feature]]
   icon = ""
@@ -69,7 +55,7 @@ subtitle = ""
   icon_pack = ""
   link = ""
   name = "<center>[![](/img/collabs/utep.png)](https://www.ttu.edu)</center>"
-  description = "Iva Ivanova"
+  description = "[Iva Ivanova](https://www.utep.edu/liberalarts/psychology/people/iva-m-ivanova.html)"
 
 [[feature]]
   icon = ""
@@ -77,13 +63,6 @@ subtitle = ""
   link = ""
   name = "<center>[![](/img/collabs/ucsd.png)](https://ucsd.edu)</center>"
   description = "[Shota Momma](https://shotam.github.io)"
-
-[[feature]]
-  icon = ""
-  icon_pack = ""
-  link = ""
-  name = "<center>[![](/img/collabs/wsu.png)](https://wsu.edu)</center>"
-  description = "[Nick Davey](https://education.wsu.edu/nicholas-s-davey/)"
 
 [[feature]]
   icon = ""

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music | LMCL</title>
+    <link>https://lmcl-umd.github.io./tags/music/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <description>music</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmcl-umd.github.io./img/logo3.png</url>
+      <title>music</title>
+      <link>https://lmcl-umd.github.io./tags/music/</link>
+    </image>
+    
+    <item>
+      <title>Updating musical tonal structure in working memory engages cognitive control</title>
+      <link>https://lmcl-umd.github.io./publication/pub2/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/pub2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship between musical and language abilities in post-stroke aphasia</title>
+      <link>https://lmcl-umd.github.io./publication/pub44/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/pub44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserved processing of musical structure in a person with agrammatic aphasia</title>
+      <link>https://lmcl-umd.github.io./publication/pub15/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/pub15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing structure in language and music: a case for shared reliance on cognitive control</title>
+      <link>https://lmcl-umd.github.io./publication/pub23/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/pub23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music and early language acquisition</title>
+      <link>https://lmcl-umd.github.io./publication/pub30/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/pub30/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
