@@ -43,3 +43,5 @@ Finally, here are a few examples of (IMHO) good science writing. You should, of 
 - [Psychonomic Society blog](https://featuredcontent.psychonomic.org/)
 - Vicky Williamson's [Music Psychology blog](https://musicpsychology.co.uk/)
 - and many more (please send me suggestions if you have 'em!)
+
+Happy writing!
