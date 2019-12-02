@@ -1,7 +1,7 @@
 ---
 title: "The time course of sound category identification: Insights from acoustic features"
 authors:
-- Mattson Ogg 
+- ogg 
 - bob
 - William J. Idsardi
 

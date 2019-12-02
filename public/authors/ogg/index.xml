@@ -5,12 +5,60 @@
     <link>https://lmcl-umd.github.io./authors/ogg/</link>
       <atom:link href="https://lmcl-umd.github.io./authors/ogg/index.xml" rel="self" type="application/rss+xml" />
     <description>LMCL</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lmcl-umd.github.io./img/logo3.png</url>
       <title>LMCL</title>
       <link>https://lmcl-umd.github.io./authors/ogg/</link>
     </image>
+    
+    <item>
+      <title>The rapid emergence of auditory object representations in cortex reflect central acoustic attributes</title>
+      <link>https://lmcl-umd.github.io./publication/pub1/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/pub1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updating musical tonal structure in working memory engages cognitive control</title>
+      <link>https://lmcl-umd.github.io./publication/pub2/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/pub2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic correlates of auditory object and event perception: Speakers, musical timbres and environmental sounds</title>
+      <link>https://lmcl-umd.github.io./publication/pub3/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/pub3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separable neural representations of sound sources: Speaker identity and musical timbres</title>
+      <link>https://lmcl-umd.github.io./publication/pub5/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/pub5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural mechanisms of music and language</title>
+      <link>https://lmcl-umd.github.io./publication/pub6/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/pub6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The time course of sound category identification: Insights from acoustic features</title>
+      <link>https://lmcl-umd.github.io./publication/pub11/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/pub11/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

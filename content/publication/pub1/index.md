@@ -1,7 +1,7 @@
 ---
 title: "The rapid emergence of auditory object representations in cortex reflect central acoustic attributes"
 authors:
-- Mattson Ogg 
+- ogg 
 - Thomas Carlson
 - bob
 

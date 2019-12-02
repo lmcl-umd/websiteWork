@@ -1,7 +1,7 @@
 ---
 title: "Separable neural representations of sound sources: Speaker identity and musical timbres"
 authors:
-- Mattson Ogg 
+- ogg 
 - Dustin Moraczewski
 - Stefanie E. Kuchinsky
 - bob
