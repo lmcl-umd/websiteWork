@@ -456,6 +456,7 @@ System Requirements: In order to edit and update the website, you must have the 
 <li><a href="#github-repositories">Github Repositories:</a></li>
 <li><a href="#editing-updating-the-website">Editing/Updating the Website:</a></li>
 <li><a href="#helpful-git-commands">Helpful Git Commands:</a></li>
+<li><a href="#multiple-git-users">Multiple Git Users:</a></li>
 <li><a href="#code-organization">Code Organization:</a></li>
 <li><a href="#make-edits-without-deploying">Make Edits without Deploying</a></li>
 </ul></li>
@@ -505,7 +506,19 @@ System Requirements: In order to edit and update the website, you must have the 
 
 <h3 id="editing-updating-the-website">Editing/Updating the Website:</h3>
 
-<p>In order to edit the website, you must clone the websiteWork repository from git onto your local machine. After the website files are locally on your machine, you can make changes. Before you push them back up to the websiteWork repository, run the following code snippet:</p>
+<p>In order to edit the website, you must clone the websiteWork repository from git onto your local machine. When you clone the websiteWork repository, the &ldquo;public&rdquo; folder from the code will also be copied onto your machine. This folder, in layman&rsquo;s terms, manages the updates to the site repository. In order to set this automatic updating up, you must run the following code snippets:</p>
+
+<pre><code class="language-python">#completely remove the current public directory
+rm -rf public
+
+#creates a git submodule: builds your site to public where the created public directory will have a different remote origin (i.e. hosted GitHub repository)
+git submodule add -b master git@github.com:lmcl-umd/lmcl-umd.github.io.git public
+
+#runs the first build of public
+hugo
+</code></pre>
+
+<p>After the website files are locally on your machine and your public directory is set up, you can make changes that will be visible both locally and on the master site. Before you push them back up to the websiteWork repository, run the following code snippet:</p>
 
 <pre><code class="language-python">./deploy.sh &quot;Your commit message&quot;
 </code></pre>
@@ -534,6 +547,26 @@ git commit -m &quot;your commit message&quot;
 git push 
 
 </code></pre>
+
+<h3 id="multiple-git-users">Multiple Git Users:</h3>
+
+<p>If there are multiple users updating the website from multiple devices, the websiteWork repository on your local machine may be out of date from time to time. To ensure that you always have the most up to date version of the website code, you must &ldquo;pull&rdquo; it down from the repository <b>before</b> you make any changes yourself.</p>
+
+<pre><code class="language-python">git pull
+</code></pre>
+
+<p>Read the output of this code carefully. If the word &ldquo;error&rdquo; or &ldquo;aborting&rdquo; is present after you try to pull the websiteWork repository, something went wrong. The most likely problem is that there are some untracked files between the two versions of code (the version in the repository and the version on your local machine) and git is unable to merge them. To resolve this issue, run the following two code snippets:</p>
+
+<pre><code class="language-python">git fetch --all
+git reset --hard origin/master
+</code></pre>
+
+<p>Now, you should be able to run the pull command again and successfully get an updated version of the code.</p>
+
+<pre><code class="language-python">git pull
+</code></pre>
+
+<p>At this point, you can make your own changes to any of the websiteWork files and deploy, git add, git commit, and git push as you normally would.</p>
 
 <h3 id="code-organization">Code Organization:</h3>
 

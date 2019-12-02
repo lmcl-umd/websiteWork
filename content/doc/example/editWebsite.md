@@ -42,7 +42,20 @@ The <b>websiteWork</b> repository is where the working code lives while the <b>l
 
 ### Editing/Updating the Website:
 
-In order to edit the website, you must clone the websiteWork repository from git onto your local machine. After the website files are locally on your machine, you can make changes. Before you push them back up to the websiteWork repository, run the following code snippet:
+In order to edit the website, you must clone the websiteWork repository from git onto your local machine. When you clone the websiteWork repository, the "public" folder from the code will also be copied onto your machine. This folder, in layman's terms, manages the updates to the site repository. In order to set this automatic updating up, you must run the following code snippets:
+
+```python
+#completely remove the current public directory
+rm -rf public
+
+#creates a git submodule: builds your site to public where the created public directory will have a different remote origin (i.e. hosted GitHub repository)
+git submodule add -b master git@github.com:lmcl-umd/lmcl-umd.github.io.git public
+
+#runs the first build of public
+hugo
+```
+
+After the website files are locally on your machine and your public directory is set up, you can make changes that will be visible both locally and on the master site. Before you push them back up to the websiteWork repository, run the following code snippet:
 
 ```python
 ./deploy.sh "Your commit message"
@@ -73,6 +86,29 @@ git commit -m "your commit message"
 git push 
 
 ```
+
+### Multiple Git Users:
+
+If there are multiple users updating the website from multiple devices, the websiteWork repository on your local machine may be out of date from time to time. To ensure that you always have the most up to date version of the website code, you must "pull" it down from the repository <b>before</b> you make any changes yourself. 
+
+```python
+git pull
+```
+
+Read the output of this code carefully. If the word "error" or "aborting" is present after you try to pull the websiteWork repository, something went wrong. The most likely problem is that there are some untracked files between the two versions of code (the version in the repository and the version on your local machine) and git is unable to merge them. To resolve this issue, run the following two code snippets:
+
+```python
+git fetch --all
+git reset --hard origin/master
+```
+Now, you should be able to run the pull command again and successfully get an updated version of the code.
+
+```python
+git pull
+```
+
+At this point, you can make your own changes to any of the websiteWork files and deploy, git add, git commit, and git push as you normally would. 
+
 
 ### Code Organization:
 
