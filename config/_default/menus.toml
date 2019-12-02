@@ -33,6 +33,11 @@
   url = "#contact"
   weight = 60
 
+[[main]]
+  name = "Our Blog"
+  url = "https://medium.com/langmuscoglab"
+  weight = 80
+
 #[[main]]
 #  name = "Documentation"
 #  url = "doc/"
