@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Auditory Perception & Cognition*"
+publication: "*Auditory Perception & Cognition, 2, 21-46*"
 publication_short: ""
 
 abstract: <b>Introduction:</b> The comprehension of musical tonal structure may rely on executive functions, such as cognitive control and working memory updating, to orient the listener to a tonal context and guide the interpretation of incoming information in real time. One specific proposal suggests cognitive control plays a key role when a listener confronts unexpected or irregular musical information. <b>Methods:</b> In two experiments, we simultaneously manipulated musical tonal contexts and non-musical cognitive control engagement. Experiment 1 used a 2-back tone-matching task with lures (engaging both cognitive control and working memory) and Experiment 2 used a Stroop task performed in a harmonic priming paradigm. <b>Results:</b> In Experiment 1, participants had difficulty overcoming conflict from lure trials, especially when tone frequencies occupied an irregular tonal context. However, in Experiment 2, the harmonic priming manipulation did not affect Stroop-conflict performance. <b>Discussion:</b> We interpret these results in terms of conflict monitoring and conflict resolution. Incorporating unexpected or ambiguous musical information appears to rely on cognitive control, however, cognitive control engagement depends on the specific task characteristics and demands. Nevertheless, these findings help explain a critical aspect of music cognition in terms of higher-order cognitive processes.
