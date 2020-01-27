@@ -12,8 +12,9 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 cd public
 
 #pull changes
-git pull
 git stash
+git pull
+
 
 # Add changes to git.
 git add .
