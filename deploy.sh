@@ -13,6 +13,7 @@ cd public
 
 #pull changes
 git pull
+git stash
 
 # Add changes to git.
 git add .
