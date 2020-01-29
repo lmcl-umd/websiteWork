@@ -2,7 +2,7 @@
 title: "Auditory Agnosia"
 authors:
 - bob
-- Alison Shell
+- shell
 
 date: "2015-06-01T00:00:00Z"
 doi: "10.1016/B978-0-444-62630-1.00032-9"

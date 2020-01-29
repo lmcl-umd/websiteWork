@@ -1,7 +1,7 @@
 ---
 title: "Examining the role of inhibitory control in bilingual language switching"
 authors:
-- Alison Shell
+- shell
 - Jared Linck
 - bob
 
