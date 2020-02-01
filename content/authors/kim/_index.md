@@ -47,6 +47,6 @@ email: " dbthf567@hotmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Assistants
+#- Research Assistants
 ---
 Yusol is from Ellicott City, Maryland. She is interested in Educational Psychology to enhance student’s education and well-being. She Plans to attend Grad School in the future.

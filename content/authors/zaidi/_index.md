@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Donna Dadkhoo
+name: Ali Zaidi
 
 # Username (this should match the folder name)
 authors:
-- dadkhoo
+- zaidi
 
 # Is this the primary user of the site?
 superuser: false
@@ -30,7 +30,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:donnadadkhoo@gmail.com
+  link: mailto:alizaidi@terpmail.umd.edu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -39,11 +39,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "donnadadkhoo@gmail.com"
+email: "alizaidi@terpmail.umd.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-#- Research Assistants
+- Research Assistants
 ---
-Hi! My name is Donna Dadkhoo and I am a Junior Psychology major on the Pre-Med track. I am from Potomac, Maryland, and my family is from Iran, so I am bilingual in Farsi and English. Some of my favorite things include trips to DC, going to music festivals, and eating Ledo’s pizza.
+Hi, I am Ali. I am an undergraduate student majoring in psychology. I plan to work in the field of healthcare and love to implement music into my daily life. I am excited to be involved in discovering new things about music and its effects.
