@@ -59,6 +59,6 @@ email: "ahalpern@bucknell.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Faculty
+#- Faculty
 ---
 Andrea Halpern is a sabbatical visitor for academic year 2019-2020, splitting time between University of Maryland and Durham University (UK).  Her permanent position is Professor of Psychology at Bucknell University, where she teaches courses on  cognitive psychology and neuroscience, and conducts research on how the mind and brain process nonverbal information, particularly music and art. Special interests include memory for music, auditory imagery, perception of emotion in music, and all these skills in the context of healthy and not-so-healthy aging.  She is also interested in how people differ from one another in these skills, with one major focus being on why some people can match pitch very well...and some cannot. During this year, she is working with Professors Bob Slevc and Shihab Shamma and students, looking at how the brain imagines environmental sounds, changes in auditory imagery with typical aging, and how conductors might differ from other musicians on ability to divide auditory attention. 

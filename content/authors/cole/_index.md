@@ -46,6 +46,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Assistants
+#- Research Assistants
 ---
 Alissa is a senior psychology major with minors in neuroscience and hearing and speech sciences. She is currently working on her honors thesis looking at predictive language processing. After graduating, she hopes to attend graduate school to obtain a PhD in clinical psychology.
