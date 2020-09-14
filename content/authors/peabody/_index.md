@@ -47,6 +47,6 @@ email: "lpeabody@terpmail.umd.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-#- Research Assistants
+- Research Assistants
 ---
 Lydia is an undergraduate student from Bethesda, Maryland studying Psychology with a minor in General Business. She has a passion for music and is eager to learn any and everything about the way we think about and process music. 
