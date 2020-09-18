@@ -49,4 +49,4 @@ email: "lpeabody@terpmail.umd.edu"
 user_groups:
 - Research Assistants
 ---
-Lydia is an undergraduate student from Bethesda, Maryland studying Psychology with a minor in General Business. She has a passion for music and is eager to learn any and everything about the way we think about and process music. 
+Lydia is an ambitious undergraduate student from Bethesda, Maryland studying Psychology with a minor in General Business. She has a passion for music and a curiosity about the science behind how it impacts our world.
