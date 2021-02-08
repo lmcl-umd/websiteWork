@@ -31,8 +31,7 @@
     {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
   {{ end }}
   <div class="col-12 col-sm-4">
-    {{ with .icon }}<div class="featurette-icon"><a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}><i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}" title="{{ $name }}"></i></a></div>{{ end }}
-    <h3>{{ .name | markdownify | emojify }}</h3>
+    {{ with .icon }}<div class="featurette-icon"><a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}><i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}" title="{{ $name }}"></i><br/><h3>{{ $name | markdownify | emojify }}</h3></a></div>{{ end }}
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
