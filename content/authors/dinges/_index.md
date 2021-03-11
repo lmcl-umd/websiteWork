@@ -44,6 +44,6 @@ email: "sdinges@umd.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Assistants
+#- Research Assistants
 ---
 Sofia is a recent graduate of University of Maryland where she earned her Bachelor of Science in Biology. Interested in language and music cognition, she is filling her gap year before medical school gaining exposure to neurology and hoping to contribute to the fields of knowledge on these subjects. In her free time, she enjoys learning new languages and playing basketball.

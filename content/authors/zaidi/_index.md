@@ -44,6 +44,6 @@ email: "alizaidi@terpmail.umd.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Assistants
+#- Research Assistants
 ---
 Hi, I am Ali. I am an undergraduate student majoring in psychology. I plan to work in the field of healthcare and love to implement music into my daily life. I am excited to be involved in discovering new things about music and its effects.

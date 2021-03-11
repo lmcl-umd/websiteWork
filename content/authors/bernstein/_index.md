@@ -44,6 +44,6 @@ email: "dbern118@terpmail.umd.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Assistants
+#- Research Assistants
 ---
 My name is Dani and I am a Sophomore studying Psychology here at the University of Maryland. I have many interests and have always been such a curious person. That is why I enjoy studying psychology and learning about human behavior as well as the mind and why things happen the way they do! 
