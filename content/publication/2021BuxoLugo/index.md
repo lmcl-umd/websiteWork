@@ -35,6 +35,8 @@ tags:
 featured: true
 
 links:
+- name: PsyArXiv preprint
+  url: https://psyarxiv.com/f9ypt/
 url_pdf: 
 url_code: ''
 url_dataset: ''
