@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael R. Dougherty | LMCL</title>
+    <link>https://lmcl-umd.github.io./authors/michael-r.-dougherty/</link>
+      <atom:link href="https://lmcl-umd.github.io./authors/michael-r.-dougherty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael R. Dougherty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmcl-umd.github.io./img/logo3.png</url>
+      <title>Michael R. Dougherty</title>
+      <link>https://lmcl-umd.github.io./authors/michael-r.-dougherty/</link>
+    </image>
+    
+    <item>
+      <title>Making research evaluation more transparent: Aligning research philosophy, institutional values, and reporting</title>
+      <link>https://lmcl-umd.github.io./publication/2019dougherty/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2019dougherty/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

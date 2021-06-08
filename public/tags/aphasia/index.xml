@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aphasia | LMCL</title>
+    <link>https://lmcl-umd.github.io./tags/aphasia/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/aphasia/index.xml" rel="self" type="application/rss+xml" />
+    <description>aphasia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmcl-umd.github.io./img/logo3.png</url>
+      <title>aphasia</title>
+      <link>https://lmcl-umd.github.io./tags/aphasia/</link>
+    </image>
+    
+    <item>
+      <title>Relationship between musical and language abilities in post-stroke aphasia</title>
+      <link>https://lmcl-umd.github.io./publication/2019faroqishah/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2019faroqishah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical overlap increases syntactic priming in aphasia independently of short-term memory abilities: Evidence against the explicit memory account of the lexical boost</title>
+      <link>https://lmcl-umd.github.io./publication/2018yan/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2018yan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic agreement attraction reflects short-term memory processes</title>
+      <link>https://lmcl-umd.github.io./publication/2016slevc2/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2016slevc2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

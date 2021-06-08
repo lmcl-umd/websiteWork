@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>timbre | LMCL</title>
+    <link>https://lmcl-umd.github.io./tags/timbre/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/timbre/index.xml" rel="self" type="application/rss+xml" />
+    <description>timbre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmcl-umd.github.io./img/logo3.png</url>
+      <title>timbre</title>
+      <link>https://lmcl-umd.github.io./tags/timbre/</link>
+    </image>
+    
+    <item>
+      <title>Acoustic correlates of auditory object and event perception: Speakers, musical timbres and environmental sounds</title>
+      <link>https://lmcl-umd.github.io./publication/2019ogg3/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2019ogg3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separable neural representations of sound sources: Speaker identity and musical timbres</title>
+      <link>https://lmcl-umd.github.io./publication/2019ogg4/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2019ogg4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural mechanisms of music and language</title>
+      <link>https://lmcl-umd.github.io./publication/2019ogg5/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2019ogg5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leon Li | LMCL</title>
+    <link>https://lmcl-umd.github.io./authors/leon-li/</link>
+      <atom:link href="https://lmcl-umd.github.io./authors/leon-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leon Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmcl-umd.github.io./img/logo3.png</url>
+      <title>Leon Li</title>
+      <link>https://lmcl-umd.github.io./authors/leon-li/</link>
+    </image>
+    
+    <item>
+      <title>Of papers and pens: Polysemes and homophones in lexical (mis)selection</title>
+      <link>https://lmcl-umd.github.io./publication/2016li/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2016li/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

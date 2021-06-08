@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monitoring | LMCL</title>
+    <link>https://lmcl-umd.github.io./tags/monitoring/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <description>Monitoring</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmcl-umd.github.io./img/logo3.png</url>
+      <title>Monitoring</title>
+      <link>https://lmcl-umd.github.io./tags/monitoring/</link>
+    </image>
+    
+    <item>
+      <title>How do speakers avoid ambiguous linguistic expressions?</title>
+      <link>https://lmcl-umd.github.io./publication/2005ferreira/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2005ferreira/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

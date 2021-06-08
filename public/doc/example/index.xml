@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lab Manual | LMCL</title>
+    <link>https://lmcl-umd.github.io./doc/example/</link>
+      <atom:link href="https://lmcl-umd.github.io./doc/example/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lab Manual</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmcl-umd.github.io./img/logo3.png</url>
+      <title>Lab Manual</title>
+      <link>https://lmcl-umd.github.io./doc/example/</link>
+    </image>
+    
+    <item>
+      <title>The LMCL Blog</title>
+      <link>https://lmcl-umd.github.io./doc/example/bloginfo/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://lmcl-umd.github.io./doc/example/bloginfo/</guid>
+      <description>&lt;p&gt;The LMCL now maintains a blog, hosted by Medium. If you&amp;rsquo;re enrolled in PSYC 479, one option for your &amp;lsquo;final paper&amp;rsquo; is to contribute a blog post about some topic related to language and/or music cognition that you find interesting.&lt;/p&gt;
+
+&lt;p&gt;The blog can be found at our lab &lt;a href=&#34;https://medium.com/langmuscoglab&#34; target=&#34;_blank&#34;&gt;publication section&lt;/a&gt; on Medium.&lt;/p&gt;
+
+&lt;p&gt;Ideally, these posts should:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;describe the findings of a recent primary source article about music perception/cognition (ideally referring to additional relevant sources as well).&lt;/li&gt;
+&lt;li&gt;target an intelligent, but non-expert, audience. Consider the advice &lt;a href=&#34;https://www.americanscientist.org/blog/from-the-staff/12-tips-for-scientists-writing-for-the-general-public&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;, for example.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You could find recent interesting and relevant work in lots of ways. If you have a topic in mind, try &lt;a href=&#34;http://scholar.google.com/&#34; target=&#34;_blank&#34;&gt;google scholar&lt;/a&gt; (I suggest you constrain your search to the last year or two). If you have an older paper you&amp;rsquo;re interested in, try a cited reference search (click &amp;ldquo;Cited by&amp;hellip;&amp;rdquo; under the google scholar result for that paper) to see if there&amp;rsquo;s some newer relevant research that you could include. And if you don&amp;rsquo;t yet have a topic in mind, try browsing recent tables of contents from some journals that publish relevant research &amp;ndash; here are some suggestions (though definitely not an exhaustive list - and note that you may need on-campus or proxy access to get some of these journals):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.journals.elsevier.com/brain-and-language&#34; target=&#34;_blank&#34;&gt;Brain &amp;amp; Language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sciencedirect.com/journal/cognition&#34; target=&#34;_blank&#34;&gt;Cognition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mitpressjournals.org/ljoi/jocn&#34; target=&#34;_blank&#34;&gt;Journal of Cognitive Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://psycnet.apa.org/PsycARTICLES/journal/xlm/45/11&#34; target=&#34;_blank&#34;&gt;JEP:LMC&lt;/a&gt; or &lt;a href=&#34;https://psycnet.apa.org/PsycARTICLES/journal/xhp/45/11&#34; target=&#34;_blank&#34;&gt;JEP:HPP&lt;/a&gt; (note that you&amp;rsquo;ll annoyingly have to dig around &lt;a href=&#34;https://www.lib.umd.edu/dbfinder/id/UMD01529&#34; target=&#34;_blank&#34;&gt;PsycINFO&lt;/a&gt; to get access to these articles)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tandfonline.com/toc/plcp21/current&#34; target=&#34;_blank&#34;&gt;Language, Cognition and Neuroscience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.journals.elsevier.com/neuropsychologia&#34; target=&#34;_blank&#34;&gt;Neuropsychologia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://journals.sagepub.com/home/pss&#34; target=&#34;_blank&#34;&gt;Psychological Science&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://journals.sagepub.com/home/pom&#34; target=&#34;_blank&#34;&gt;Psychology of Music&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.psychonomic.org/page/PBR&#34; target=&#34;_blank&#34;&gt;Psychonomic Bulletin &amp;amp; Review&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here&amp;rsquo;s some basic info on &lt;a href=&#34;https://help.medium.com/hc/en-us/articles/225168768-Write-post&#34; target=&#34;_blank&#34;&gt;writing a post in Medium&lt;/a&gt;, &lt;a href=&#34;https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication&#34; target=&#34;_blank&#34;&gt;adding your post to the lab publication&lt;/a&gt;, and on &lt;a href=&#34;https://help.medium.com/hc/en-us/articles/214981378-Embeds&#34; target=&#34;_blank&#34;&gt;embedding content&lt;/a&gt; in your post. (note: please un-check &amp;ldquo;Allow curators to recommend my story&amp;rdquo; when you publish.)&lt;/p&gt;
+
+&lt;p&gt;Finally, here are a few examples of (IMHO) good science writing. You should, of course, find your own voice, but these are some good examples of the type of writing we&amp;rsquo;re hoping for:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://theamericanscholar.org/daily-scholar/psycho-babble/&#34; target=&#34;_blank&#34;&gt;PsychoBabble&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://featuredcontent.psychonomic.org/&#34; target=&#34;_blank&#34;&gt;Psychonomic Society blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Vicky Williamson&amp;rsquo;s &lt;a href=&#34;https://musicpsychology.co.uk/&#34; target=&#34;_blank&#34;&gt;Music Psychology blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;and many more (please send me suggestions if you have &amp;lsquo;em!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Happy writing!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Google Calendars</title>
+      <link>https://lmcl-umd.github.io./doc/example/calendars/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://lmcl-umd.github.io./doc/example/calendars/</guid>
+      <description>
+
+&lt;h3 id=&#34;overview&#34;&gt;Overview:&lt;/h3&gt;
+
+&lt;p&gt;Our lab uses and maintains three Google Calendars to books and schedule the three rooms in BPS 3150.&lt;/p&gt;
+
+&lt;p&gt;Those three calendars are:&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;LMCL 3150A&lt;/li&gt;
+&lt;li&gt;LMCL 3150B&lt;/li&gt;
+&lt;li&gt;LMCL 3150G&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;To gain access to the calendars, ask Dr, Slevc to share them with your given gmail account. Once you have access, you can reserve the desired room by simply adding an event with your name as the subject from the time you need in the desired room&amp;rsquo;s calendar.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LMCL iMac Computers</title>
+      <link>https://lmcl-umd.github.io./doc/example/imacsoftware/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://lmcl-umd.github.io./doc/example/imacsoftware/</guid>
+      <description>
+
+&lt;h2 id=&#34;information-about-the-imac-computers-in-the-lab&#34;&gt;Information about the iMac computers in the lab&lt;/h2&gt;
+
+&lt;p&gt;If you want to update the software on the iMac Computers, you have to first check the compatibility with the version number.&lt;/p&gt;
+
+&lt;p&gt;You can go to The Apple icon in the top left corner &amp;gt; About This Mac&lt;/p&gt;
+
+&lt;p&gt;The model number will tell you when the iMac was released and the version number will tell you what version of OS your computer is running.&lt;/p&gt;
+
+&lt;p&gt;If the computer is running software 10.7 or below, you will have to go online and download and install the next version of software yourself (rather than through the App Store).&lt;/p&gt;
+
+&lt;p&gt;To download El Capitan follow the instructions &lt;a href=&#34;https://support.apple.com/en-us/HT206886&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To download High Sierra follow the instructions &lt;a href=&#34;https://support.apple.com/en-us/HT208969&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Note: if the iMac is version 11,2 (i.e. mid 2010) or earlier, the highest OS you can upgrade to is High Sierra &lt;/b&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Psychopy Tips and Tricks</title>
+      <link>https://lmcl-umd.github.io./doc/example/psychopyupdate/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://lmcl-umd.github.io./doc/example/psychopyupdate/</guid>
+      <description>
+
+&lt;h2 id=&#34;how-to-update-to-psychopy3-on-your-computer&#34;&gt;How to update to Psychopy3 on your computer&lt;/h2&gt;
+
+&lt;p&gt;As of 11/1/2019, the standalone package to download Psychopy3 from the &lt;a href=&#34;https://www.psychopy.org/download.html&#34; target=&#34;_blank&#34;&gt;Psychopy website&lt;/a&gt; does not contain the correct dependencies required for using some of the features we need in the LMCL (such as the pyo library for audio and voice keys).&lt;/p&gt;
+
+&lt;p&gt;The work around is to download the source code via the terminal and adjust the dependencies yourself. Instructions for this are outlined on the Psychopy website but require additional manipulation to work in the capacity required for this lab. Additional instructions have been outlined below.&lt;/p&gt;
+
+&lt;h3 id=&#34;for-mac-users&#34;&gt;For Mac users:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OS must be updated to version 10.12 or higher&lt;/li&gt;
+&lt;li&gt;must be running python 3.6 or higher&lt;/li&gt;
+&lt;li&gt;use pip3 to install pyo&lt;/li&gt;
+&lt;li&gt;use pip3 to install pyglet == 1.2.4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After the above is complete can you can:&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;pip3 install psychopy&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;To now open and run psychopy3, open the command line terminal and simply type &amp;ldquo;psychopy&amp;rdquo;&lt;/p&gt;
+
+&lt;h3 id=&#34;for-pc-users&#34;&gt;For PC users:&lt;/h3&gt;
+
+&lt;p&gt;Follow the instructions on the &lt;a href=&#34;https://www.psychopy.org/download.html&#34; target=&#34;_blank&#34;&gt;Psychopy website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LMCL Website Overview</title>
+      <link>https://lmcl-umd.github.io./doc/example/editwebsite/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://lmcl-umd.github.io./doc/example/editwebsite/</guid>
+      <description>
+
+&lt;h3 id=&#34;system-design&#34;&gt;System Design:&lt;/h3&gt;
+
+&lt;p&gt;The LMCL website is built using a &lt;a href=&#34;https://gohugo.io/about/what-is-hugo/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; website framework and hosted on &lt;a href=&#34;https://pages.github.com&#34; target=&#34;_blank&#34;&gt;Github Pages&lt;/a&gt;. We implemented the Hugo &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt; theme. The Academic theme uses a series of templates called &amp;ldquo;widgets&amp;rdquo; that can copied and edited as needed to build the site.&lt;/p&gt;
+
+&lt;p&gt;Our website is available at: &lt;a href=&#34;http://lmcl-umd.github.io&#34; target=&#34;_blank&#34;&gt;http://lmcl-umd.github.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;system-requirements&#34;&gt;System Requirements:&lt;/h3&gt;
+
+&lt;p&gt;In order to edit and update the website, you must have the following installed on your machine:&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;&lt;a href=&#34;https://brew.sh&#34; target=&#34;_blank&#34;&gt;Homebrew&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;&lt;a href=&#34;https://help.github.com/en/github/getting-started-with-github/set-up-git&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;github-repositories&#34;&gt;Github Repositories:&lt;/h3&gt;
+
+&lt;p&gt;The code for our website is hosted on Github. The username for our lab&amp;rsquo;s GitHub is &lt;b&gt;lmcl-umd&lt;/b&gt;. Contact Dr. Slevc for the password if/when needed for SSH authentication (see &amp;ldquo;Editing the Website&amp;rdquo; below). There are two repositories in which the code lives:
+&lt;li&gt; websiteWork&lt;/li&gt;
+&lt;li&gt; lmcl-umd.github.io.&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;b&gt;websiteWork&lt;/b&gt; repository is where the working code lives while the &lt;b&gt;lmcl-umd.github.io.&lt;/b&gt; repository is where the live code lives.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Note: You will only ever have to change code in websiteWork and that will automatically update the live code in the lmcl-umd.github.io. repository. &lt;/b&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;editing-updating-the-website&#34;&gt;Editing/Updating the Website:&lt;/h3&gt;
+
+&lt;p&gt;In order to edit the website, you must clone the websiteWork repository from git onto your local machine. When you clone the websiteWork repository, the &amp;ldquo;public&amp;rdquo; folder from the code will also be copied onto your machine. This folder, in layman&amp;rsquo;s terms, manages the updates to the site repository. In order to set this automatic updating up, you must run the following code snippets:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;#completely remove the current public directory
+rm -rf public
+
+#creates a git submodule: builds your site to public where the created public directory will have a different remote origin (i.e. hosted GitHub repository)
+git submodule add -b master git@github.com:lmcl-umd/lmcl-umd.github.io.git public
+
+#runs the first build of public
+hugo
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;After the website files are locally on your machine and your public directory is set up, you can make changes that will be visible both locally and on the master site. Before you push them back up to the websiteWork repository, run the following code snippet:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;./deploy.sh &amp;quot;Your commit message&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This deploy command will push your edits to the lmcl-umd.github.io. repository and after a couple of minutes, your changes will appear on the live website.&lt;/p&gt;
+
+&lt;p&gt;In order to clone and push edits via git, you must first have git set up on your computer and &lt;a href=&#34;https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account&#34; target=&#34;_blank&#34;&gt;authenticate our lmcl-umd GitHub&lt;/a&gt; account via your computer&amp;rsquo;s unique SSH key.&lt;/p&gt;
+
+&lt;h3 id=&#34;helpful-git-commands&#34;&gt;Helpful Git Commands:&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# clone the repository
+git clone https://github.com/lmcl-umd/websiteWork.git
+
+# deploy edits to lmcl-umd.github.io. repository
+# your commit message should describe the edits made 
+./deploy.sh &amp;quot;your commit message&amp;quot;
+
+# add edits to websiteWork repository
+git add *
+
+# commit edits to websiteWork repository
+# your commit message should describe the edits made 
+git commit -m &amp;quot;your commit message&amp;quot;
+
+# push edits to websiteWork repository
+git push 
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;multiple-git-users&#34;&gt;Multiple Git Users:&lt;/h3&gt;
+
+&lt;p&gt;If there are multiple users updating the website from multiple devices, the websiteWork repository on your local machine may be out of date from time to time. To ensure that you always have the most up to date version of the website code, you must &amp;ldquo;pull&amp;rdquo; it down from the repository &lt;b&gt;before&lt;/b&gt; you make any changes yourself.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;git pull
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Read the output of this code carefully. If the word &amp;ldquo;error&amp;rdquo; or &amp;ldquo;aborting&amp;rdquo; is present after you try to pull the websiteWork repository, something went wrong. The most likely problem is that there are some untracked files between the two versions of code (the version in the repository and the version on your local machine) and git is unable to merge them. To resolve this issue, run the following two code snippets:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;git fetch --all
+git reset --hard origin/master
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now, you should be able to run the pull command again and successfully get an updated version of the code.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;git pull
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;At this point, you can make your own changes to any of the websiteWork files and deploy, git add, git commit, and git push as you normally would.&lt;/p&gt;
+
+&lt;h3 id=&#34;code-organization&#34;&gt;Code Organization:&lt;/h3&gt;
+
+&lt;p&gt;After you clone the websiteWork repository, you will see a folder called &amp;ldquo;websiteWork&amp;rdquo; on your computer. Within that folder are many, many subdirectories. The main folders most relevant for editing, however, are:&lt;/p&gt;
+
+&lt;p&gt;&lt;li&gt;&lt;b&gt;content:&lt;/b&gt; holds all the actual editable content on the site; subdirectories within this folder are named to indicate which sections of the site they house information on&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;config:&lt;/b&gt; holds the more administrative, website configuration files&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;static:&lt;/b&gt; holds images and other files such as publication odds or profile cv&amp;rsquo;s for reference by other folders&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;layouts:&lt;/b&gt; the main back-end of the website that holds all style sheets, and design of the site&lt;/li&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt; Do NOT ever edit the public folder in this repository&lt;/b&gt; It handles the automatic deployment to the main website and should not be edited.&lt;/p&gt;
+
+&lt;p&gt;For more information on &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/&#34; target=&#34;_blank&#34;&gt;managing&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing&lt;/a&gt; content see the Hugo Academic &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;source documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;make-edits-without-deploying&#34;&gt;Make Edits without Deploying&lt;/h3&gt;
+
+&lt;p&gt;What if you want to just play around and see how something will look before actually deploying to the website?&lt;/p&gt;
+
+&lt;p&gt;We also have a version of the website&amp;rsquo;s code (and example code) on DropBox. This code is not live and can be run locally. Enter the &lt;b&gt;lmclSite&lt;/b&gt; folder via the terminal and then type the command&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;hugo server
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Next open a web-browser and type&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;localhost:1313
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The code will render in the browser.&lt;/p&gt;
+
+&lt;p&gt;For access to the DropBox code, contact Dr. Slevc and you will be granted access for editing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

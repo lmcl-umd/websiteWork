@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Syntactic category | LMCL</title>
+    <link>https://lmcl-umd.github.io./tags/syntactic-category/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/syntactic-category/index.xml" rel="self" type="application/rss+xml" />
+    <description>Syntactic category</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmcl-umd.github.io./img/logo3.png</url>
+      <title>Syntactic category</title>
+      <link>https://lmcl-umd.github.io./tags/syntactic-category/</link>
+    </image>
+    
+    <item>
+      <title>Syntactic category constrains lexical competition in speaking</title>
+      <link>https://lmcl-umd.github.io./publication/2020momma/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./publication/2020momma/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

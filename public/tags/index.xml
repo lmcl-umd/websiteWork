@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | LMCL</title>
+    <link>https://lmcl-umd.github.io./tags/</link>
+      <atom:link href="https://lmcl-umd.github.io./tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://lmcl-umd.github.io./img/logo3.png</url>
+      <title>Tags</title>
+      <link>https://lmcl-umd.github.io./tags/</link>
+    </image>
+    
+    <item>
+      <title>grammatical encoding</title>
+      <link>https://lmcl-umd.github.io./tags/grammatical-encoding/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/grammatical-encoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical access</title>
+      <link>https://lmcl-umd.github.io./tags/lexical-access/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/lexical-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentence picture interference</title>
+      <link>https://lmcl-umd.github.io./tags/sentence-picture-interference/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/sentence-picture-interference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentence production</title>
+      <link>https://lmcl-umd.github.io./tags/sentence-production/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/sentence-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic category</title>
+      <link>https://lmcl-umd.github.io./tags/syntactic-category/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/syntactic-category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auditory</title>
+      <link>https://lmcl-umd.github.io./tags/auditory/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/auditory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive control</title>
+      <link>https://lmcl-umd.github.io./tags/cognitive-control/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/cognitive-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetoencephalography</title>
+      <link>https://lmcl-umd.github.io./tags/magnetoencephalography/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/magnetoencephalography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Pattern Analysis</title>
+      <link>https://lmcl-umd.github.io./tags/multivariate-pattern-analysis/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/multivariate-pattern-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://lmcl-umd.github.io./tags/music/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>n-back</title>
+      <link>https://lmcl-umd.github.io./tags/n-back/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/n-back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Perception</title>
+      <link>https://lmcl-umd.github.io./tags/object-perception/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/object-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representational Similarity Analysis</title>
+      <link>https://lmcl-umd.github.io./tags/representational-similarity-analysis/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/representational-similarity-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stroop</title>
+      <link>https://lmcl-umd.github.io./tags/stroop/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/stroop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>working memory updating</title>
+      <link>https://lmcl-umd.github.io./tags/working-memory-updating/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/working-memory-updating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>acoustics</title>
+      <link>https://lmcl-umd.github.io./tags/acoustics/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/acoustics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aphasia</title>
+      <link>https://lmcl-umd.github.io./tags/aphasia/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/aphasia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>auditory object</title>
+      <link>https://lmcl-umd.github.io./tags/auditory-object/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/auditory-object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>auditory perception</title>
+      <link>https://lmcl-umd.github.io./tags/auditory-perception/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/auditory-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive reserve</title>
+      <link>https://lmcl-umd.github.io./tags/cognitive-reserve/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/cognitive-reserve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>environmental sound</title>
+      <link>https://lmcl-umd.github.io./tags/environmental-sound/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/environmental-sound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fMRI</title>
+      <link>https://lmcl-umd.github.io./tags/fmri/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language</title>
+      <link>https://lmcl-umd.github.io./tags/language/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speaker identification</title>
+      <link>https://lmcl-umd.github.io./tags/speaker-identification/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/speaker-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech</title>
+      <link>https://lmcl-umd.github.io./tags/speech/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax</title>
+      <link>https://lmcl-umd.github.io./tags/syntax/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>timbre</title>
+      <link>https://lmcl-umd.github.io./tags/timbre/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/timbre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>annotated curriculum vitae</title>
+      <link>https://lmcl-umd.github.io./tags/annotated-curriculum-vitae/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/annotated-curriculum-vitae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open science</title>
+      <link>https://lmcl-umd.github.io./tags/open-science/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducibility</title>
+      <link>https://lmcl-umd.github.io./tags/reproducibility/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research philosophy</title>
+      <link>https://lmcl-umd.github.io./tags/research-philosophy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/research-philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>implicit learning</title>
+      <link>https://lmcl-umd.github.io./tags/implicit-learning/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/implicit-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical boost</title>
+      <link>https://lmcl-umd.github.io./tags/lexical-boost/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/lexical-boost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>short-term memory</title>
+      <link>https://lmcl-umd.github.io./tags/short-term-memory/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/short-term-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntactic priming</title>
+      <link>https://lmcl-umd.github.io./tags/syntactic-priming/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/syntactic-priming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lexical retrieval</title>
+      <link>https://lmcl-umd.github.io./tags/lexical-retrieval/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/lexical-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntactic choice</title>
+      <link>https://lmcl-umd.github.io./tags/syntactic-choice/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/syntactic-choice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntactic formulation</title>
+      <link>https://lmcl-umd.github.io./tags/syntactic-formulation/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/syntactic-formulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Executive functions</title>
+      <link>https://lmcl-umd.github.io./tags/executive-functions/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/executive-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>latent variable analysis</title>
+      <link>https://lmcl-umd.github.io./tags/latent-variable-analysis/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/latent-variable-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musical Training</title>
+      <link>https://lmcl-umd.github.io./tags/musical-training/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/musical-training/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>executive function</title>
+      <link>https://lmcl-umd.github.io./tags/executive-function/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/executive-function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual differences</title>
+      <link>https://lmcl-umd.github.io./tags/individual-differences/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/individual-differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language production</title>
+      <link>https://lmcl-umd.github.io./tags/language-production/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/language-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musical ability</title>
+      <link>https://lmcl-umd.github.io./tags/musical-ability/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/musical-ability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic agreement</title>
+      <link>https://lmcl-umd.github.io./tags/syntactic-agreement/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/syntactic-agreement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>working memory</title>
+      <link>https://lmcl-umd.github.io./tags/working-memory/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/working-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agrammatism</title>
+      <link>https://lmcl-umd.github.io./tags/agrammatism/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/agrammatism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>atonalia</title>
+      <link>https://lmcl-umd.github.io./tags/atonalia/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/atonalia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meaning</title>
+      <link>https://lmcl-umd.github.io./tags/meaning/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/meaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polysemy</title>
+      <link>https://lmcl-umd.github.io./tags/polysemy/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/polysemy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bilingualism</title>
+      <link>https://lmcl-umd.github.io./tags/bilingualism/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/bilingualism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language switching</title>
+      <link>https://lmcl-umd.github.io./tags/language-switching/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/language-switching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music perception</title>
+      <link>https://lmcl-umd.github.io./tags/music-perception/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/music-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musical structure</title>
+      <link>https://lmcl-umd.github.io./tags/musical-structure/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/musical-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prosodic structure</title>
+      <link>https://lmcl-umd.github.io./tags/prosodic-structure/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/prosodic-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prosody</title>
+      <link>https://lmcl-umd.github.io./tags/prosody/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/prosody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech perception</title>
+      <link>https://lmcl-umd.github.io./tags/speech-perception/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/speech-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amusia</title>
+      <link>https://lmcl-umd.github.io./tags/amusia/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/amusia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>auditory agnosia</title>
+      <link>https://lmcl-umd.github.io./tags/auditory-agnosia/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/auditory-agnosia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>environmental sound agnosia</title>
+      <link>https://lmcl-umd.github.io./tags/environmental-sound-agnosia/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/environmental-sound-agnosia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musical ambiguity</title>
+      <link>https://lmcl-umd.github.io./tags/musical-ambiguity/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/musical-ambiguity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pure word deafness</title>
+      <link>https://lmcl-umd.github.io./tags/pure-word-deafness/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/pure-word-deafness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid temporal processing</title>
+      <link>https://lmcl-umd.github.io./tags/rapid-temporal-processing/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/rapid-temporal-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speech perception deficits</title>
+      <link>https://lmcl-umd.github.io./tags/speech-perception-deficits/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/speech-perception-deficits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retrieval interference</title>
+      <link>https://lmcl-umd.github.io./tags/retrieval-interference/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/retrieval-interference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scope of planning</title>
+      <link>https://lmcl-umd.github.io./tags/scope-of-planning/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/scope-of-planning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>errors</title>
+      <link>https://lmcl-umd.github.io./tags/errors/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music and language</title>
+      <link>https://lmcl-umd.github.io./tags/music-and-language/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/music-and-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musical syntax</title>
+      <link>https://lmcl-umd.github.io./tags/musical-syntax/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/musical-syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parsing</title>
+      <link>https://lmcl-umd.github.io./tags/parsing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/parsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repairs</title>
+      <link>https://lmcl-umd.github.io./tags/repairs/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/repairs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>childhood development</title>
+      <link>https://lmcl-umd.github.io./tags/childhood-development/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/childhood-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>definition of music</title>
+      <link>https://lmcl-umd.github.io./tags/definition-of-music/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/definition-of-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emergent modularity</title>
+      <link>https://lmcl-umd.github.io./tags/emergent-modularity/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/emergent-modularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>language acquisition</title>
+      <link>https://lmcl-umd.github.io./tags/language-acquisition/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/language-acquisition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music cognition</title>
+      <link>https://lmcl-umd.github.io./tags/music-cognition/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/music-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>musical development</title>
+      <link>https://lmcl-umd.github.io./tags/musical-development/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/musical-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>accessibility effects</title>
+      <link>https://lmcl-umd.github.io./tags/accessibility-effects/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/accessibility-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>similarity-based interference</title>
+      <link>https://lmcl-umd.github.io./tags/similarity-based-interference/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/similarity-based-interference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review</title>
+      <link>https://lmcl-umd.github.io./tags/review/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lateralization</title>
+      <link>https://lmcl-umd.github.io./tags/lateralization/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/lateralization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critical Word</title>
+      <link>https://lmcl-umd.github.io./tags/critical-word/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/critical-word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garden Path</title>
+      <link>https://lmcl-umd.github.io./tags/garden-path/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/garden-path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pitch Class</title>
+      <link>https://lmcl-umd.github.io./tags/pitch-class/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/pitch-class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic Processing</title>
+      <link>https://lmcl-umd.github.io./tags/syntactic-processing/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/syntactic-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptual loop theory</title>
+      <link>https://lmcl-umd.github.io./tags/perceptual-loop-theory/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/perceptual-loop-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self monitoring</title>
+      <link>https://lmcl-umd.github.io./tags/self-monitoring/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/self-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech errors</title>
+      <link>https://lmcl-umd.github.io./tags/speech-errors/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/speech-errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambiguity</title>
+      <link>https://lmcl-umd.github.io./tags/ambiguity/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/ambiguity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homophones</title>
+      <link>https://lmcl-umd.github.io./tags/homophones/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/homophones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>https://lmcl-umd.github.io./tags/monitoring/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Referential communication</title>
+      <link>https://lmcl-umd.github.io./tags/referential-communication/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/referential-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional speech</title>
+      <link>https://lmcl-umd.github.io./tags/emotional-speech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/emotional-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musical intervals</title>
+      <link>https://lmcl-umd.github.io./tags/musical-intervals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/musical-intervals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech prosody</title>
+      <link>https://lmcl-umd.github.io./tags/speech-prosody/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lmcl-umd.github.io./tags/speech-prosody/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
