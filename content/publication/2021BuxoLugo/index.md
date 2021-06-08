@@ -3,9 +3,10 @@ title: "Do Minor Thirds Characterize the Prosody of Sad Speech? "
 
 authors:
 - andres
+- Sam santomartino
 - bob
 
-date: "2021-23-05T00:00:00Z"
+date: "2021-23-05"
 doi: "10.1080/25742442.2021.1930465"
 
 # Schedule page publish date (NOT publication's date).
