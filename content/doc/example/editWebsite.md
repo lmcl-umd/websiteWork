@@ -59,7 +59,7 @@ git submodule add -b master git@github.com:lmcl-umd/lmcl-umd.github.io.git publi
 hugo
 ```
 
-After the website files are locally on your machine and your public directory is set up, you can make changes that will be visible both locally and on the master site. Any time you make changes in the local, websiteWork repository (any of the websiteWork files), you will follow the steps below to delay these changes to the public repository (i.e. the website):
+After the website files are locally on your machine and your public directory is set up, you can make changes that will be visible both locally and on the master site. Any time you make changes in the local, websiteWork repository (any of the websiteWork files), you will follow the steps below to deploy these changes to the public repository (i.e. the website):
 
 ```python
 1. make sure your local repository matches with the remote repository, pull any new changes
