@@ -1,5 +1,5 @@
 ---
-title: "Do Minor Thirds Characterize the Prosody of Sad Speech?"
+title: "Do Minor Thirds Characterize the Prosody of Sad Speech? "
 
 authors:
 - andres
