@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:lmcl-umd/lmcl-umd.github.io.git
+	branch = master
