@@ -1,9 +1,11 @@
 ---
-title: "Do Minor Thirds Characterize the Prosody of Sad Speech? "
+title: "Moving from Bilingual Traits to States: Understanding Cognition and Language Processing through Moment-to-Moment Variation"
 
 authors:
 - salig
+- Jorge Valdés Kroff
 - bob
+- Jared Novick
 
 date: "2021-07-22T00:00:00Z"
 doi: "10.1162/nol_a_00046"
