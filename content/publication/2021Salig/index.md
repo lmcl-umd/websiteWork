@@ -5,11 +5,11 @@ authors:
 - salig
 - bob
 
-date: "2021-07-22"
+date: "2021-07-22T00:00:00Z"
 doi: "10.1162/nol_a_00046"
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: ""
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,7 +37,7 @@ tags:
 featured: false
 
 links:
-- name: Journal
+- name: Publisher
   url: https://doi.org/10.1162/nol_a_00046
 url_pdf: 
 url_code: ''
@@ -67,6 +67,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides:
+slides: ""
 ---
 
