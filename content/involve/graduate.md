@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "Graduate Studies"
-subtitle = "Interested in pursuing graduate level work with us? Follow the application procedures in one of two routes:<br> Note: We are <b>not</b> currently recruiting for Fall 2020"
+subtitle = "Interested in pursuing graduate level work with us? Follow the application procedures in one of two routes:<br> Note: Dr. Slevc <b>does not</b> expect to admit a PhD student for Fall 2022."
 
 # Showcase personal skills or business features.
 # 
