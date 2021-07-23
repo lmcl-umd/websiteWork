@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Publications"
-subtitle = ""
+title = "Recent Publications"
+subtitle = "or [see all publications](https://lmcl-umd.github.io/publication/)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
