@@ -3,9 +3,9 @@ title: "Moving from Bilingual Traits to States: Understanding Cognition and Lang
 
 authors:
 - salig
-- Jorge Valdés Kroff
+- Jorge R. Valdés Kroff
 - bob
-- Jared Novick
+- Jared M. Novick
 
 date: "2021-07-22T00:00:00Z"
 doi: "10.1162/nol_a_00046"
