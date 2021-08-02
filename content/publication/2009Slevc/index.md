@@ -28,11 +28,8 @@ abstract: Linguistic processing, especially syntactic processing, is often consi
 summary:
 
 tags:
-- Critical Word 
-- Musical Training 
-- Syntactic Processing 
-- Garden Path 
-- Pitch Class
+- music and language
+- Syntactic processing 
 
 
 featured: false

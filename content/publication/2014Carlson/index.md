@@ -29,6 +29,10 @@ abstract: In the ventral visual pathway, early visual areas encode light pattern
 summary:
 
 tags:
+- vision
+- language
+- representational similarity analysis
+- fMRI
 
 
 

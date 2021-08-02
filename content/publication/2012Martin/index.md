@@ -26,6 +26,8 @@ abstract:
 summary:
 
 tags:
+- memory disorders
+- language
 
 
 

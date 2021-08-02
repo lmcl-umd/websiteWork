@@ -29,6 +29,9 @@ abstract: This study examined the relation between musical ability and second-la
 summary:
 
 tags:
+- Musical ability
+- Individual differences
+- Second language acquisition
 
 
 featured: false

@@ -30,7 +30,7 @@ tags:
 - acoustics
 - timbre
 - speaker identification
-- environmental sound
+- environmental sounds
 
 featured: false
 

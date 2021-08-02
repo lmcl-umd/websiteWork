@@ -48,6 +48,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Alumni
+- PhD and Postdoc Alumni
 ---
 Brooke Okada completed her Ph.D. in Psychology in August, 2018 (dissertation title: Toward a comprehensive model of musical ability). She is currently a data analyst at [Sisco LABS](https://www.syscolabs.com).

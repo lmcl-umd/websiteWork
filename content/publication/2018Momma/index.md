@@ -27,6 +27,9 @@ abstract: "Linguistic analyses suggest that there are two types of intransitive 
 summary:
 
 tags:
+- scope of planning
+- language production
+- picture-word interference
 
 
 featured: false

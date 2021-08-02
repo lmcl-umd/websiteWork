@@ -27,7 +27,7 @@ summary:
 
 tags:
 - fMRI
-- auditory object
+- auditory objects
 - auditory perception
 - speaker identification
 - speech

@@ -28,7 +28,9 @@ abstract: Bilingual language production is widely believed to be a competitive p
 summary:
 
 tags:
-
+- bilingual language production
+- cognitive control
+- picture-word interference
 
 
 featured: false

@@ -11,9 +11,8 @@ subtitle = ""
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 user_groups = ["Faculty",
-	       "Graduate Students","Postdoctoral Fellow",
-               "Research Assistants", 
-	       "PhD Alumni"]
+	       "Graduate Students","Research Assistants", 
+	       "PhD and Postdoc Alumni"]
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

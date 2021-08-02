@@ -29,8 +29,7 @@ summary:
 tags:
 - syntactic priming
 - parsing
-- errors
-- repairs
+- speech errors
 
 
 featured: false

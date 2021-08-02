@@ -29,7 +29,11 @@ abstract: Many influential models of sentence production (e.g., Bock & Levelt, 1
 summary:
 
 tags:
-
+- language production 
+- sentence production
+- scope of planning
+- picture-word interference
+- Japanese
 
 featured: false
 

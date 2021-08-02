@@ -45,6 +45,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Alumni
+- PhD and Postdoc Alumni
 ---
 Mattson Ogg completed his Ph.D. in [Neuroscience and Cognitive Science](https://nacs.umd.edu) in April, 2019 (dissertation title: The acoustic factors that influence auditory object and event recognition over time). He is currently an audio/speech signal processing engineer at the [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu).

@@ -29,8 +29,7 @@ abstract: Evidence for shared processing of structure (or syntax) in language an
 summary:
 
 tags:
-- Language
-- music
+- music and language
 - syntax
 - agrammatism
 - atonalia

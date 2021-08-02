@@ -61,6 +61,6 @@ email: "buxolugo@umd.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups: 
-- Postdoctoral Fellow
+- PhD and Postdoc Alumni
 ---
-Andrés is a President's Postdoctoral Fellow in the Psychology department at the University of Maryland. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.
+Andrés was a President's Postdoctoral Fellow in the Psychology department at the University of Maryland, and is now an Assistant Professor at the University at Buffalo. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.

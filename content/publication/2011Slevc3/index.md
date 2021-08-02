@@ -27,7 +27,7 @@ abstract:
 summary:
 
 tags:
-- Review
+- music and language
 
 
 featured: false

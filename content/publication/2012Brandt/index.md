@@ -28,14 +28,12 @@ abstract: Language is typically viewed as fundamental to human intelligence. Mus
 summary:
 
 tags:
-- music
-- language
+- music and language
 - language acquisition
 - childhood development
 - musical development
 - music cognition
 - definition of music
-- emergent modularity
 
 
 featured: false

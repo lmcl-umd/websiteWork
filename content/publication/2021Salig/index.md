@@ -1,5 +1,5 @@
 ---
-title: "Moving from Bilingual Traits to States: Understanding Cognition and Language Processing through Moment-to-Moment Variation"
+title: "Moving from bilingual traits to states: Understanding cognition and language processing through moment-to-moment variation"
 
 authors:
 - salig
@@ -20,7 +20,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Neurobiology of Language*"
+publication: "*Neurobiology of Language* (in press)"
 publication_short: ""
 
 abstract: The study of how bilingualism is linked to cognitive processing, including executive functioning, has historically focused on comparing bilinguals to monolinguals across a range of tasks. These group comparisons presume to capture relatively stable cognitive traits and have revealed important insights about the architecture of the language processing system that could not have been gleaned from studying monolinguals alone. However, there are drawbacks to using a groupcomparison, or Traits, approach. In this theoretical review, we outline some limitations of treating executive functions as stable traits and of treating bilinguals as a uniform group when comparing to monolinguals. To build on what we have learned from group comparisons, we advocate for an emerging complementary approach to the question of cognition and bilingualism. Using an approach that compares bilinguals to themselves under different linguistic or cognitive contexts allows researchers to ask questions about how language and cognitive processes interact based on dynamically fluctuating cognitive and neural states. A States approach, which has already been used by bilingualism researchers, allows for cause-and-effect hypotheses and shifts our focus from questions of group differences to questions of how varied linguistic environments influence cognitive operations in the moment and how fluctuations in cognitive engagement impact language processing.
@@ -39,8 +39,6 @@ tags:
 featured: false
 
 links:
-- name: Publisher
-  url: https://doi.org/10.1162/nol_a_00046
 url_pdf: 
 url_code: ''
 url_dataset: ''

@@ -29,6 +29,7 @@ tags:
 - musical training 
 - executive functions
 - latent variable analysis  
+- individual differences
 
 featured: false
 

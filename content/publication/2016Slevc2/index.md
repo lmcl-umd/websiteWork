@@ -32,6 +32,7 @@ tags:
 - language production
 - short-term memory
 - aphasia
+- speech errors
 
 featured: false
 

@@ -7,7 +7,7 @@ authors:
 - bob
 
 date: "2019-08-07T00:00:00Z"
-doi: ""
+doi: "10.1080/25742442.2019.1626686"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -30,15 +30,14 @@ summary:
 
 tags:
 - Cognitive Control
-- working memory updating
+- working memory
 - music
-- n-back
-- Stroop
+
 featured: false
 
 links:
 - name: Journal
-  url: https://www.tandfonline.com/doi/full/10.1080/25742442.2019.1626686?scroll=top&needAccess=true
+  url: https://www.tandfonline.com/doi/full/10.1080/25742442.2019.1626686
 url_pdf: ''
 url_code: ''
 url_dataset: ''

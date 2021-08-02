@@ -1,5 +1,5 @@
 ---
-title: "Do Minor Thirds Characterize the Prosody of Sad Speech? "
+title: "Do minor thirds characterize the prosody of sad speech? "
 
 authors:
 - andres
@@ -18,7 +18,7 @@ doi: "10.1080/25742442.2021.1930465"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Auditory Perception & Cognition*"
+publication: "*Auditory Perception & Cognition* (in press)"
 publication_short: ""
 
 abstract: Pitch can convey information about emotion in both spoken language and in music. Given this, do people use pitch to communicate emotion in similar ways across both domains? To investigate this question we look at intervals between the fundamental frequency (f0) of adjacent syllables in emotional speech produced by actors. We first investigate whether descending minor third intervals are more prevalent in sad speech compared to other types of emotional speech, as has been reported previously. In these data, we see no evidence for descending minor thirds being characteristic of sad speech. In fact, we find little evidence for any specific musical intervals being associated with specific emotions in these longer sentences. We suggest that speakers might borrow emotional cues from music only when other prosodic options are infeasible.
@@ -31,6 +31,7 @@ tags:
 - Speech prosody
 - Musical intervals
 - Emotional speech
+- music and language
 
 featured: true
 

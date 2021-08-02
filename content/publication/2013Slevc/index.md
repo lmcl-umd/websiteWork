@@ -27,6 +27,9 @@ abstract: Pickering & Garrod's (P&G's) integrated model of production and compre
 summary:
 
 tags:
+- cognitive control
+- memory
+- language
 
 
 featured: false

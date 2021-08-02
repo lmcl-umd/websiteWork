@@ -27,6 +27,9 @@ abstract: Humans have an impressive, automatic capacity for identifying and orga
 summary:
 
 tags:
+- Auditory
+- Auditory objects
+- acoustics
  
 
 

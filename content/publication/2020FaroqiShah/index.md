@@ -8,8 +8,8 @@ authors:
 - Sarah J. Fisher
 - Madeline Pifer
 
-date: "2019-07-01T00:00:00Z"
-doi: ""
+date: "2020-01-01T00:00:00Z"
+doi: "10.1080/02687038.2019.1650159"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -33,8 +33,7 @@ summary:
 tags:
 - Aphasia
 - cognitive reserve
-- language
-- music
+- music and language
 - syntax
 
 

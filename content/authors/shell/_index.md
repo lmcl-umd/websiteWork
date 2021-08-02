@@ -47,6 +47,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Alumni
+- PhD and Postdoc Alumni
 ---
 Alison Shell completed her Ph.D. in Psychology in October, 2018 (dissertation title: The what And where of control in bilingual language switching). She is currently a research fellow at [Digital Promise](https://digitalpromise.org).

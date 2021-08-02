@@ -26,8 +26,7 @@ abstract: The relationship between structural processing in music and language h
 summary:
 
 tags:
-- Language
-- Music 
+- music and language
 - Syntax 
 - Cognitive control 
 - Musical ambiguity 
