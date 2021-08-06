@@ -20,7 +20,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Cognition*"
+publication: "*Cognition, 197: 104183*"
 publication_short: ""
 
 abstract: We report two experiments that suggest that syntactic category plays a key role in limiting competition in lexical access in speaking. We introduce a novel sentence-picture interference (SPI) paradigm, and we show that nouns (e.g., running as a noun) do not compete with verbs (e.g., walking as a verb) and verbs do not compete with nouns in sentence production, regardless of their conceptual similarity. Based on this finding, we argue that lexical competition in production is limited by syntactic category. We also suggest that even complex words containing category-changing derivational morphology can be stored and accessed together with their final syntactic category information. We discuss the potential underlying mechanism and how it may enable us to speak relatively fluently.

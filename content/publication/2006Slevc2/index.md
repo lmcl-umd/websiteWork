@@ -7,7 +7,7 @@ authors:
 
 
 date: "2006-01-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.jml.2005.11.002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

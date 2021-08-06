@@ -7,7 +7,7 @@ authors:
 - Erin S. Rogers
 
 date: "2005-07-01T00:00:00Z"
-doi: ""
+doi: "doi.org/10.1016/j.cognition.2004.09.002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""

@@ -25,7 +25,7 @@ education:
   courses:
   - course: Postdoctoral Research Fellow
     institution: University of Maryland, Department of Psychology
-    year: current
+    year: 2021
   - course: Postdoctoral Research Associate
     institution: University of Rochester, Department of Brain and Cognitive Sciences
     year: 2019

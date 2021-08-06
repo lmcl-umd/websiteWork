@@ -6,7 +6,7 @@ authors:
 - Aniruddh D.Patel
 
 date: "2009-04-01T00:00:00Z"
-doi: ""
+doi: "10.3758/16.2.374"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physics of Life Reviews, 8(2), 110-111.*"
+publication: "*Psychonomic Bulletin & Review, 16, 374-381.*"
 publication_short: ""
 
 abstract: Linguistic processing, especially syntactic processing, is often considered a hallmark of human cognition; thus, the domain specificity or domain generality of syntactic processing has attracted considerable debate. The present experiments address this issue by simultaneously manipulating syntactic processing demands in language and music. Participants performed self-paced reading of garden path sentences, in which structurally unexpected words cause temporary syntactic processing difficulty. A musical chord accompanied each sentence segment, with the resulting sequence forming a coherent chord progression. When structurally unexpected words were paired with harmonically unexpected chords, participants showed substantially enhanced garden path effects. No such interaction was observed when the critical words violated semantic expectancy or when the critical chords violated timbral expectancy. These results support a prediction of the shared syntactic integration resource hypothesis (Patel, 2003), which suggests that music and language draw on a common pool of limited processing resources for integrating incoming elements into syntactic structures. Notations of the stimuli from this study may be downloaded from pbr.psychonomic-journals.org/content/supplemental.

@@ -7,7 +7,7 @@ authors:
 - Marc F. Joanisse
 
 date: "2011-01-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.neuropsychologia.2010.11.009"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
