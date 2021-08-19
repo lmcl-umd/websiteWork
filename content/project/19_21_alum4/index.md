@@ -2,7 +2,7 @@
 title:
 summary:
 years:
-- 2017-2018
+- 2019-2021
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -21,5 +21,5 @@ links:
 #   Otherwise, set `slides = ""`.
 slides:
 ---
-- Samantha Santomartino
+- Sam Santomartino
 - Ali Zaidi
