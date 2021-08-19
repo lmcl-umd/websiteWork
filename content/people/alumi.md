@@ -19,12 +19,17 @@ subtitle = "<b>*</b> indicates honors"
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
+  filter_default = 1
   
   [[content.filter_button]]
     name = "All"
     tag = "*"
   
+  [[content.filter_button]]
+    name = "2019-2021"
+    tag = "2019-2021"
+    year = "2019-2021"
+
   [[content.filter_button]]
     name = "2017-2018"
     tag = "2017-2018"
