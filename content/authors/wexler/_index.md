@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Maryland
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

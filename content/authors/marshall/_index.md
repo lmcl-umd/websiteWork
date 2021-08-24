@@ -1,26 +1,34 @@
 ---
 # Display name
-name: Roxanna Bakhtiari
+name: Kelly Marshall
 
 # Username (this should match the folder name)
 authors:
-- bakhtiari
+- marshall
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lab Manager
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
+
+education:
+  courses:
+  - course: BA in Cognitive Science and Psychology
+    institution: Johns Hopkins University
+    year: 2016
+  - course: MA in Speech-Language Pathology
+    institution: George Washington University
+    year: 2019
 
 
 # Social/Academic Networking
@@ -30,7 +38,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rbakhtia@terpmail.umd.edu
+  link: mailto:ksharer@umd.edu
+- icon: user
+  icon_pack: fa
+  link: https://nacs.umd.edu/gradprofile/marshall/kelly
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -39,11 +50,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "rbakhtia@terpmail.umd.edu"
+email: "ksharer@umd.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Assistants
+- Graduate Students
 ---
-Roxanna Bakhtiari is a junior pursuing a double major in psychology and mathematics. She hopes to apply her passion for both subjects in her research and future career. In her free time, she loves to play the guitar, paint, and listen to music.
+Kelly is a graduate student in NACS. Kelly graduated from Johns Hopkins University with a B.A. in Cognitive Science and Psychology and she completed her Master’s degree in Speech-Language Pathology at George Washington University. Her research interests include understanding the role of executive functions in dealing with linguistic uncertainty or ambiguity during language processing and how this may differ between healthy individuals those with language disorders.  
