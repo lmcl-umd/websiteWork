@@ -63,4 +63,4 @@ email: "buxolugo@umd.edu"
 user_groups: 
 - PhD and Postdoc Alumni
 ---
-Andrés was a President's Postdoctoral Fellow in the Psychology department at the University of Maryland, and is now an Assistant Professor at the University at Buffalo. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.
+Andrés is an [Assistant Professor at the University at Buffalo](https://arts-sciences.buffalo.edu/psychology/faculty/faculty-directory/buxo-lugo.html), following a stint here at Maryland as a President's Postdoctoral Fellow. His research focuses on how people produce and understand speech and prosody. He is especially interested in how speakers and listeners integrate information from different levels of linguistic representation.
