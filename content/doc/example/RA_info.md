@@ -17,7 +17,7 @@ weight: 1
 We've complied lots of relevant information for research assistants in the lab into a syllabus for PSYC 479. This is, of course, highly relevant if you're enrolled in 479, but most of this applies to any RA, whether or not working for course credit. Please take a look! 
 
 **PSYC 479 – Special Research Problems in Psychology**
-
+\
 **Syllabus for [Language and Music Cognition Lab](https://lmcl-umd.github.io/) Research Assistants**
 
 ***(Here's a [PDF version of the syllabus](https://lmcl-umd.github.io/files/PSYC479_Slevc_syllabus_12-15-21.pdf))***
