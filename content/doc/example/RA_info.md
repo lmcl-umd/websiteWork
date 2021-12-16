@@ -17,10 +17,13 @@ weight: 1
 We've complied lots of relevant information for research assistants in the lab into a syllabus for PSYC 479. This is, of course, highly relevant if you're enrolled in 479, but most of this applies to any RA, whether or not working for course credit. Please take a look! 
 
 **PSYC 479 – Special Research Problems in Psychology**
+
 **Syllabus for [Language and Music Cognition Lab](https://lmcl-umd.github.io/) Research Assistants**
+
 ***(Here's a [PDF version of the syllabus](https://lmcl-umd.github.io/files/PSYC479_Slevc_syllabus_12-15-21.pdf))***
 
 ***Lab location:*** BPS 3150
+
 ***Instructor / Lab PI:*** Dr. L. Robert Slevc (he/him) – [slevc@umd.edu](mailto:slevc@umd.edu) – office: BPS 1147-E
 
 **Course Description**
@@ -46,11 +49,14 @@ Your primary research mentor is Dr. Slevc, the lab&#39;s PI. However, your immed
 
 1. ***Hours***. Enrolling for three credits commits you to 135 hours of work (an average of 9 hours/week) on the project(s) to which you are assigned. (Enrolling for two credits may also be possible, which would commit you to 90 hours, or an average of 6 hours/week.) Scheduled hours are typically flexible, although the degree of flexibility can vary by research project. In general, you should schedule your specific hours at least a week in advance, and ideally farther in advance if posting timeslots for participant signups.
 \
+\
 It is important to keep up with your hours. If research tasks are not filling these hours (e.g., because of limited participant signups or pandemic-related research restrictions) then you are expected to work with your instructor to identify other useful ways to contribute (e.g., by working on literature reviews, documenting / writing up aspects of the research, etc.) Students who fall behind in hours can make up time during finals week if necessary, depending on the availability of lab work at the end of the semester. If you get significantly behind in your hours (\&gt;10 hours behind where you should be in the term), you should work with your supervisor to make arrangements for completing your hours on time.
+\
 \
 _When running experiments:_ One of the most important aspects of a position in a research lab is collecting data (i.e., running experiments). It is crucial that you respect participants&#39; time by being on time yourself and being prepared when running an experiment Your grade will be affected if you are late or miss an assigned shift (see details below in the &quot;Grading&quot; section).
 
 2. ***Training / certifications***. It is important that you understand how to protect the rights and welfare of research participants. Thus, before becoming involved in research on human participants, you should first complete an online research ethics course from the CITI program. To do this, create an account at [http://www.citiprogram.org](http://www.citiprogram.org/) and take the online &quot;Social and Behavioral Basic/Refresher&quot; course (be sure to put &quot;University of Maryland, College Park&quot; as an affiliation). Once complete, you should turn in a copy of your completion report. If you have taken this course already (e.g., for experience in another lab) within the past three years, you need not take again. (If it has been over three years, you can take a shorter &quot;refresher&quot; course – contact instructor for details.)
+\
 \
 Various other training courses and/or meetings may be required depending on the specific project(s) you are involved with. These meetings will count toward your lab hours.
 
@@ -60,7 +66,9 @@ Various other training courses and/or meetings may be required depending on the 
 
 5. ***Final assignment.*** The &quot;standard&quot; final assignment is to contribute at least one post to the lab&#39;s blog ([https://medium.com/langmuscoglab](https://medium.com/langmuscoglab)). This post should describe the findings of some resent research that you find interesting and is related (at least tangentially) to the lab&#39;s work (i.e., a recent primary source article about language and/or music perception/cognition). It should target an intelligent, but non-expert, audience and, ideally, should also refer to additional relevant sources. More details and some resources for this assignment are posted here: [https://lmcl-umd.github.io/doc/example/bloginfo/](https://lmcl-umd.github.io/doc/example/bloginfo/)
 \
+\
 This post is due by the last day of classes (unless you ask for an extension), although you are _strongly_ encouraged to complete this earlier in the semester so that you can present it in a lab meeting to get feedback and suggestions.
+\
 \
 If you do not wish to write and publish a blogpost, you can instead lead a lab meeting on some topic relevant to the lab. You may also negotiate some other assignment. In any case, you are encouraged to talk with your research mentor or Dr. Slevc before beginning the assignment.
 
@@ -84,7 +92,9 @@ This course is subject to university-wide policies for undergraduate courses, de
 
 - **Scholarly work.** We encourage students who are interested in investing time, energy, and intellectual contributions above and beyond their lab responsibilities to consider taking on their own project (or aspects of a larger project). This could lead to an honors thesis, result in presenting research locally or at national/international conferences, and even result in co-authoring publications. Please be aware that the opportunity for this level of intellectual contribution and involvement depends not only on your initiative and investment, but also on the opportunities that are currently available.
 \
+\
 Students are encouraged to consider presenting either their independent research or other (non-independent) research with which they are involved at the [_PSYC Undergraduate Research Day_](https://psyc.umd.edu/undergraduate/undergraduate-research-day) in the Spring. If you do this, we expect that you will spend lab hours working on aspects of the project. However, you should expect that planning a presentation will require effort beyond your lab hours, as this is something done for your own professional development. Students can present independently or part of a team depending on their level of experience in the lab and the type of projects available. Students often find this to be an engaging and rewarding experience and we hope you will too.
+\
 \
  There are often opportunities for summer funding to work on independent research through BSOS and through the [Maryland Center for Undergraduate Research](https://mcur.umd.edu/). If you are interested in pursuing these types of opportunities, please discuss with your lab supervisors.
 
