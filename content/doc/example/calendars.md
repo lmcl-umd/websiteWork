@@ -24,5 +24,13 @@ Those three calendars are:
 <li>LMCL 3150B</li>
 <li>LMCL 3150G</li>
 
-To gain access to the calendars, ask Dr, Slevc to share them with your given gmail account. Once you have access, you can reserve the desired room by simply adding an event with your name as the subject from the time you need in the desired room's calendar.
+We also use google calendars to reserve the EEG suite in the [NCDL](http://ncdl.umd.edu/):
 
+<li>BPS 2109 E&F (testing & control rooms)</li> (what we need to reserve)
+<li>BPS 2019 conference room</li> (what we need to check to make sure it'll be quiet)
+
+...and the BIOPAC lab in the basement:
+
+<li>BPS 0127</li>
+
+for access to the calendars relevant to you, ask Dr, Slevc to share them with your gmail account. Once you have access, you can reserve the desired room by simply adding an event with your name as the subject from the time you need in the desired room's calendar.
