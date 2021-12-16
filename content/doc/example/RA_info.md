@@ -19,12 +19,12 @@ We've complied lots of relevant information for research assistants in the lab i
 **PSYC 479 – Special Research Problems in Psychology**
 \
 **Syllabus for [Language and Music Cognition Lab](https://lmcl-umd.github.io/) Research Assistants**
-
+\
 ***(Here's a [PDF version of the syllabus](https://lmcl-umd.github.io/files/PSYC479_Slevc_syllabus_12-15-21.pdf))***
 
 ***Lab location:*** BPS 3150
-
-***Instructor / Lab PI:*** Dr. L. Robert Slevc (he/him) – [slevc@umd.edu](mailto:slevc@umd.edu) – office: BPS 1147-E
+\
+***Instructor / Lab PI:*** Dr. [L. Robert Slevc (he/him)](https://psyc.umd.edu/facultyprofile/slevc/l-robert) – [slevc@umd.edu](mailto:slevc@umd.edu)
 
 **Course Description**
 
