@@ -5,7 +5,7 @@ authors:
 - Thomas Carlson
 - bob
 
-date: "2020-01-01T00:00:00Z"
+date: "2020-01-02T00:00:00Z"
 doi: "10.1162/jocn_a_01472"
 
 # Schedule page publish date (NOT publication's date).

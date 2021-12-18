@@ -50,4 +50,4 @@ email: ""
 user_groups:
 - PhD and Postdoc Alumni
 ---
-Brooke Okada completed her Ph.D. in Psychology in August, 2018 (dissertation title: Toward a comprehensive model of musical ability). She is currently a data analyst at [Sisco LABS](https://www.syscolabs.com).
+Brooke Okada completed her Ph.D. in Psychology in August, 2018 (dissertation title: Toward a comprehensive model of musical ability). She is currently a data analyst at [Outschool](https://outschool.com/).

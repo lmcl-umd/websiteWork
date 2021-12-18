@@ -33,7 +33,7 @@ tags:
 - Emotional speech
 - music and language
 
-featured: true
+featured: false
 
 links:
 - name: PsyArXiv preprint
