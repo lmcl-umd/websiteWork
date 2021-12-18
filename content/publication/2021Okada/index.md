@@ -1,11 +1,11 @@
 ---
-title: "What is "musical ability" and how do we measure it? "
+title: "What is 'musical ability' and how do we measure it? "
 
 authors:
 - okada
 - bob
 
-date: "2021-12-17T00:00:00Z"
+date: "2021-12-17"
 doi: "10.18061/FDMC.2021.0029"
 
 # Schedule page publish date (NOT publication's date).
