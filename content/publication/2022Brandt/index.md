@@ -6,7 +6,7 @@ authors:
 - Molly Gebrian
 - bob
 
-date: "2022-06-22T00:00:00Z"
+date: "2022-06-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
