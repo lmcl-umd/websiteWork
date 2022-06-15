@@ -19,7 +19,7 @@ publishDate: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Oxford Handbook of Language and Music* (forthcoming)"
+publication: "*The Oxford Handbook of Language and Music*"
 publication_short: ""
 
 abstract: The human brain continues to mature throughout childhood, making our species particularly susceptible to experience. Given the diversity of music and language around the globe, how these are acquired during childhood is revealing about the feedback loop between our biological predispositions and exposure. Evidence suggests that children begin as generalists and become specialists, with music and language deeply entangled in infancy and modularity emerging over time. In addition, development proceeds along parallel tracks, with comparable cognitive milestones. Although there is a tendency to celebrate our precociousness, it may be that we should really extol the slow and protected aspects of development: our unfledged entry into the world affords us the extended time necessary to internalize these products of culture. The present chapter begins by exploring the variety of music and languages around the world. It then tracks developmental milestones from birth throughout childhood, examines linked developmental disorders, and closes with a discussion of open questions and future directions.
