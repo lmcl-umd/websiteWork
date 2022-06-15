@@ -24,4 +24,4 @@ slides:
 - Chenqi Jia
 - Yusol Kim
 - Alex Medrano
-- Lydia Peabody
+- Roxanna Meyssami

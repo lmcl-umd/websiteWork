@@ -21,5 +21,7 @@ links:
 #   Otherwise, set `slides = ""`.
 slides:
 ---
+- Lydia Peabody
 - Sam Santomartino
+- Alejandro Valdés
 - Ali Zaidi
