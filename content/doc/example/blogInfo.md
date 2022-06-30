@@ -37,8 +37,9 @@ You could find recent interesting and relevant work in lots of ways. If you have
 
 Here's some basic info on [writing a post in Medium](https://help.medium.com/hc/en-us/articles/225168768-Write-post), [adding your post to the lab publication](https://help.medium.com/hc/en-us/articles/213904978-Add-draft-or-post-to-publication), and on [embedding content](https://help.medium.com/hc/en-us/articles/214981378-Embeds) in your post. (note: please un-check "Allow curators to recommend my story" when you publish.) 
 
-Finally, here are a few examples of (IMHO) good science writing. You should, of course, find your own voice, but these are some good examples of the type of writing we're hoping for:
+Finally, here are a few examples of (IMHO) good relevant science writing. You should, of course, find your own voice, but here you can find examples of the type of writing we're hoping for:
 
+- [MPI TalkLing](https://www.mpi-talkling.mpi.nl/)
 - [PsychoBabble](https://theamericanscholar.org/daily-scholar/psycho-babble/)
 - [Psychonomic Society blog](https://featuredcontent.psychonomic.org/)
 - Vicky Williamson's [Music Psychology blog](https://musicpsychology.co.uk/)
