@@ -3,7 +3,7 @@ title: Info for LMCL Research Assistants
 linktitle: Info for RAs
 toc: true
 type: docs
-date: "2021-12-15T00:00:00+01:00"
+date: "2023-01-09T00:00:00+01:00"
 draft: false
 menu:
   example:
@@ -14,15 +14,15 @@ menu:
 weight: 1
 ---
 
-We've complied lots of relevant information for research assistants in the lab into a syllabus for PSYC 479. This is, of course, highly relevant if you're enrolled in 479, but most of this applies to any RA, whether or not working for course credit. Please take a look! 
+We've complied lots of relevant information for research assistants in the lab into a syllabus for PSYC 479 / NEUR 379 / NEUR 479. This is, of course, highly relevant if you're enrolled in one of these courses, but most of this info applies also to RAs who are not working for course credit. Please take a look! 
 
 **PSYC 479 – Special Research Problems in Psychology**
 \
+**NEUR 379 / NEUR 479 - Advanced Research in Neuroscience**
+\
 **Syllabus for [Language and Music Cognition Lab](https://lmcl-umd.github.io/) Research Assistants**
 \
-***(Here's a [PDF version of the syllabus](https://lmcl-umd.github.io/files/PSYC479_Slevc_syllabus_12-15-21.pdf))***
-
-***Lab location:*** BPS 3150
+***Main lab location:*** BPS 3150
 \
 ***Instructor / Lab PI:*** Dr. [L. Robert Slevc (he/him)](https://psyc.umd.edu/facultyprofile/slevc/l-robert) – [slevc@umd.edu](mailto:slevc@umd.edu)
 
@@ -50,7 +50,7 @@ Your primary research mentor is Dr. Slevc, the lab&#39;s PI. However, your immed
 1. ***Hours***. Enrolling for three credits commits you to 135 hours of work (an average of 9 hours/week) on the project(s) to which you are assigned. (Enrolling for two credits may also be possible, which would commit you to 90 hours, or an average of 6 hours/week.) Scheduled hours are typically flexible, although the degree of flexibility can vary by research project. In general, you should schedule your specific hours at least a week in advance, and ideally farther in advance if posting timeslots for participant signups.
 \
 \
-It is important to keep up with your hours. If research tasks are not filling these hours (e.g., because of limited participant signups or pandemic-related research restrictions) then you are expected to work with your instructor to identify other useful ways to contribute (e.g., by working on literature reviews, documenting / writing up aspects of the research, etc.) Students who fall behind in hours can make up time during finals week if necessary, depending on the availability of lab work at the end of the semester. If you get significantly behind in your hours (\&gt;10 hours behind where you should be in the term), you should work with your supervisor to make arrangements for completing your hours on time.
+It is important to keep up with your hours. If research tasks are not filling these hours (e.g., because of limited participant signups or pandemic-related research restrictions) then you are expected to work with your instructor to identify other useful ways to contribute (e.g., by working on literature reviews, documenting / writing up aspects of the research, etc.) Students who fall behind in hours can make up time during finals week if necessary, depending on the availability of lab work at the end of the semester. If you get significantly behind in your hours (more than 10 hours behind where you should be in the term), you should work with your supervisor to make arrangements for completing your hours on time.
 \
 \
 _When running experiments:_ One of the most important aspects of a position in a research lab is collecting data (i.e., running experiments). It is crucial that you respect participants&#39; time by being on time yourself and being prepared when running an experiment Your grade will be affected if you are late or miss an assigned shift (see details below in the &quot;Grading&quot; section).
@@ -62,7 +62,7 @@ Various other training courses and/or meetings may be required depending on the 
 
 3. ***Reading assignments***. You will periodically be asked to read materials related to your projects in the lab and/or about psycholinguistic / neurolinguistic research more generally. You may also be asked to read and comment on lab members&#39; work-in-progress, workshop presentations, etc. When lab work is relatively slow (e.g., because of minimal participant signups), a good use of time is to catch up on the background reading listed below and on past published work from the lab (linked on the lab webpage).
 
-4. ***Weekly lab meetings.*** Weekly lab meetings are required and count towards your total hours in the lab. These meetings provide opportunities to discuss ongoing research projects, giving you greater context for the projects you are working on. These also are valuable in that other lab members can get feedback from you and other lab members on their work. We also may use these meetings to discuss papers or topics of professional development. We welcome suggestions and requests for these meetings. For Spring, 2022, lab meetings are scheduled for **Thursdays at 4pm**. 
+4. ***Weekly lab meetings.*** Weekly lab meetings are required and count towards your total hours in the lab. These meetings provide opportunities to discuss ongoing research projects, giving you greater context for the projects you are working on. These also are valuable in that other lab members can get feedback from you and other lab members on their work. We also may use these meetings to discuss papers or topics of professional development. We welcome suggestions and requests for these meetings. Meeting times are not yet scheduled for the Spring, 2023, semester (but stay tuned). 
 
 5. ***Final assignment.*** The &quot;standard&quot; final assignment is to contribute at least one post to [the lab&#39;s blog](https://medium.com/langmuscoglab). This post should describe the findings of some resent research that you find interesting and is related (at least tangentially) to the lab&#39;s work (i.e., a recent primary source article about language and/or music perception/cognition). It should target an intelligent, but non-expert, audience and, ideally, should also refer to additional relevant sources. More details and some resources for this assignment are posted [here](https://lmcl-umd.github.io/doc/example/bloginfo/).
 \
@@ -106,4 +106,4 @@ Students are encouraged to consider presenting either their independent research
 
 [1](#sdfootnote1anc) Often it is not possible to find a time for lab meeting where everyone is available, in which case we prioritize new lab members and lab members who were not able to meet at a lab meeting the last semester. If this leaves you unable to attend, then of course lab meeting attendance is not required.
 
-PSYC 479 | Spring, 2022 | syllabus version of 12/15/21
+Last edit 1/9/23

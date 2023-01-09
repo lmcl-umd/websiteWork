@@ -26,9 +26,9 @@ subtitle = "<b>*</b> indicates honors"
     tag = "*"
   
   [[content.filter_button]]
-    name = "2019-2021"
-    tag = "2019-2021"
-    year = "2019-2021"
+    name = "2019-2022"
+    tag = "2019-2022"
+    year = "2019-2022"
 
   [[content.filter_button]]
     name = "2017-2018"

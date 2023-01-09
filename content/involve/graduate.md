@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "Graduate Studies"
-subtitle = "Interested in pursuing graduate level work with us? Follow the application procedures in one of two routes:<br> Note: Dr. Slevc <b>does not</b> expect to admit a PhD student for Fall 2022."
+subtitle = "Interested in pursuing graduate level work with us? You can apply via the Psychology or the Neuroscience and Cognitive Science (NACS) PhD program:"
 
 # Showcase personal skills or business features.
 # 
@@ -27,7 +27,7 @@ subtitle = "Interested in pursuing graduate level work with us? Follow the appli
   icon_pack = "fab"
   link = "https://nacs.umd.edu/landing/Prospective%20Students"
   name = "Neuroscience and Cognitive Science"
-  description = "interdisciplinary program"
+  description = "interdisciplinary PhD program"
 
 
 

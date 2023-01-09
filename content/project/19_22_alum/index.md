@@ -2,7 +2,7 @@
 title:
 summary:
 years:
-- 2019-2021
+- 2019-2022
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -21,7 +21,7 @@ links:
 #   Otherwise, set `slides = ""`.
 slides:
 ---
-- Alissa Cole *
-- Donna Dadkhoo
-- Sofia Dinges
-- Anna Fraser
+- Zenab Abubakari
+- Izzy Baildon
+- Danielle Bernstein
+- Camille Burns

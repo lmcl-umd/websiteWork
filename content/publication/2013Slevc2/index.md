@@ -18,7 +18,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Experimental Psychology: Learning, Memory, and Cognition, 39(3), 985-992*"
+publication: "*Proceedings of the 35th Annual Conference of the Cognitive Science Society (pp. 3414-3419)*"
 publication_short: ""
 
 abstract: The relationship between structural (or syntactic) processing in music and in language is not yet clear. Evidence indicating that these two processes are shared conflicts with other results suggesting that they are largely distinct. These conflicting findings suggest that musical and linguistic processing may share some, but not all, underlying processes, raising the question of what exactly those shared processes might be. Two experiments tested the idea that one shared process is cognitive control by pairing manipulations of musical structure with the Stroop task, a standard test of cognitive control. Manipulations of harmonic expectancy, but not of timbral expectancy, interacted with Stroop interference effects, suggesting that cognitive control is at least one specific process underlying shared syntactic processing in music and language.
