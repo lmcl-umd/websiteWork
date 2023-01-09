@@ -16,15 +16,16 @@ weight: 1
 
 We've complied lots of relevant information for research assistants in the lab into a syllabus for PSYC 479 / NEUR 379 / NEUR 479. This is, of course, highly relevant if you're enrolled in one of these courses, but most of this info applies also to RAs who are not working for course credit. Please take a look! 
 
-**PSYC 479 – Special Research Problems in Psychology**
+**NEUR 379 / NEUR 479 / PSYC 479 –**
 \
-**NEUR 379 / NEUR 479 - Advanced Research in Neuroscience**
+**Advanced Research in Neuroscience / Special Research Problems in Psychology**
 \
 **Syllabus for [Language and Music Cognition Lab](https://lmcl-umd.github.io/) Research Assistants**
 \
+\
 ***Main lab location:*** BPS 3150
 \
-***Instructor / Lab PI:*** Dr. [L. Robert Slevc (he/him)](https://psyc.umd.edu/facultyprofile/slevc/l-robert) – [slevc@umd.edu](mailto:slevc@umd.edu)
+***Instructor / Lab PI:*** Dr. [L. Robert Slevc](https://psyc.umd.edu/facultyprofile/slevc/l-robert) (he/him) – [slevc@umd.edu](mailto:slevc@umd.edu)
 
 **Course Description**
 
