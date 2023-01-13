@@ -40,6 +40,8 @@ featured: false
 links:
 - name: Journal
   url: https://www.ncbi.nlm.nih.gov/pubmed/21767058
+- name: Stimuli
+  url: https://github.com/bobsthinktank/stimuli/tree/main/stimuli_sets/Slevc_2011_pic_stimuli
 
 url_pdf: http://lmcl.umd.edu/pubs/slevc_2011.pdf
 url_code: ''
