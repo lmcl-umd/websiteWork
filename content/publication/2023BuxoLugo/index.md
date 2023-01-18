@@ -38,6 +38,8 @@ featured: false
 links:
 - name: PsyArXiv preprint
   url: https://psyarxiv.com/hn536/
+- name: OSF
+  url: https://osf.io/dvxkf/
 url_pdf: 
 url_code: ''
 url_dataset: ''

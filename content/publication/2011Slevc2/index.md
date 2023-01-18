@@ -40,6 +40,8 @@ featured: false
 links:
 - name: Journal
   url: https://www.sciencedirect.com/science/article/pii/S002839321000477X?via%3Dihub
+- name: Stimuli
+  url: https://github.com/bobsthinktank/stimuli/tree/main/stimuli_sets/slevc_etal_2011_stimuli
 
 url_pdf: http://lmcl.umd.edu/pubs/slevc_etal_11.pdf
 url_code: ''

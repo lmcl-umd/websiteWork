@@ -51,6 +51,6 @@ Welcome to the webpage for the Language and Music Cognition Lab (LMCL), part of 
 
 Language and music may be the most impressive examples of humans' capacity to process complex sound and structure. Work in our lab aims to better understand these abilities -- that is, we investigate the cognitive science of language and music. This includes work focusing specifically on language processing (especially word and sentence production), work focusing specifically on sound and music perception, and work directly comparing linguistic and musical processing. Most of our work relies on behavioral paradigms, but we also draw on methods from cognitive neuroscience (including EEG, MEG, and fMRI) and neuropsychology (specifically, investigations of linguistic and musical perception in individuals with brain damage). 
 
-Please explore our recent [publications](/publications), past and current [lab members](/people), and how you might be able to [get involved](/involve)! 
+Please explore our [published work](/publication), past and current [lab members](/people), and how you might be able to [get involved](/involve)! 
 
 
