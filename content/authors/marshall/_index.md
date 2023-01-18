@@ -55,6 +55,6 @@ email: "ksharer@umd.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Graduate Students and Postdocs
 ---
 Kelly is a graduate student in NACS. Kelly graduated from Johns Hopkins University with a B.A. in Cognitive Science and Psychology and she completed her Master’s degree in Speech-Language Pathology at George Washington University. Her research interests include understanding the role of executive functions in dealing with linguistic uncertainty or ambiguity during language processing and how this may differ between healthy individuals those with language disorders.  

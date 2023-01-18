@@ -9,14 +9,14 @@
   weight = 10
 
 [[main]]
+  name = "People"
+  url = "people/"
+  weight = 30
+
+[[main]]
   name = "Publications"
   url = "publication/"
   weight = 40
-
-[[main]]
-  name = "People"
-  url = "people/"
-  weight = 50
 
 #[[main]]
 #  name = "Resources"
@@ -34,7 +34,7 @@
 #  weight = 60
 
 [[main]]
-  name = "Our Blog"
+  name = "Lab Blog"
   url = "https://medium.com/langmuscoglab"
   weight = 80
 

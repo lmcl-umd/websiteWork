@@ -26,6 +26,9 @@ education:
   - course: BA in Psychology and Spanish
     institution: Elon University 
     year: 2017
+  - course: MA in Neuroscience and Cognitive Science
+    institution: University of Maryland, College Park
+    year: 2021
 
 
 # Social/Academic Networking
@@ -52,6 +55,6 @@ email: "lksalig@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Graduate Students and Postdocs
 ---
 Lauren is a graduate student in the Neuroscience and Cognitive Science program. She is originally from Downingtown, Pennsylvania. Lauren received a bachelor's degree in psychology and Spanish from Elon University in 2017 and spent a year after graduation in Neuquén, Argentina teaching English on a Fulbright grant. For her graduate studies, she is interested in researching language processing through an intercultural lens that considers how language processing might be affected by bilingualism, accents, code-switching, and the like.

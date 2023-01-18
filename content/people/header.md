@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Who are we?"
-subtitle = "Lab Members - Fall 2021"
+title = "LMCL Lab Members - Fall 2021"
+  # subtitle = "Lab Members - Fall 2021"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -37,7 +37,8 @@ subtitle = "Lab Members - Fall 2021"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "0", "40px", "0"]
+  # padding = ["200px", "0", "40px", "0"]
+  padding = ["40px", "0", "0", "0"]
 
 [advanced]
  # Custom CSS. 

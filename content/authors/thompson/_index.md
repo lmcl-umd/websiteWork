@@ -46,6 +46,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Graduate Students and Postdocs
 ---
 Rachel is a doctoral student in the Neuroscience and Cognitive Science (NACS) program at the University of Maryland College Park. She received her bachelor’s degree in psychology and music from St. Mary’s College of Maryland in 2019. She is interested in music perception and production, music memory, and the relationship between music and language.

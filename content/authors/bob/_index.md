@@ -67,6 +67,6 @@ email: "slevc@umd.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Faculty
+- Principal Investigator
 ---
 Bob Slevc is an Associate Professor and Director of Graduate Studies in the [Department of Psychology](https://psyc.umd.edu), part of the [Neuroscience and Cognitive Science](https://nacs.umd.edu) program and of the [Maryland Language Science Center](http://languagescience.umd.edu). 
