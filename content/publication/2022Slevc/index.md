@@ -4,7 +4,7 @@ title: "Grammatical Encoding"
 authors:
 - bob
 
-date: "2022-06-29"
+date: "2023-01-30"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,8 @@ publishDate: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Current Issues in the Psychology of Language*"
+publication: "In Hartsuiker & Strijkers (Eds.), *Language Production* (1st ed.), London: Routledge."
+
 publication_short: ""
 
 abstract: "Grammatical encoding refers to the processes involved in organizing a non-linguistic message into ordered set of representations that can then go through phonological spell-out and eventually be articulated. This includes the selection and retrieval of syntactic and lexical forms, as well as determining the appropriate morphonological forms and constituent order for a given message. This chapter briefly describes a consensus view of the architecture of grammatical encoding and what we know about its underlying cognitive/neural mechanisms. It then discusses several topics that are under debate or not yet well understood. These include questions about the discrete vs. gradient nature of grammatical representations, the relationship between grammatical encoding and syntactic parsing, the incrementality and scope of grammatical encoding, the effects of learning and experience, and factors influencing syntactic choice. Despite these many open questions, our understanding of grammatical encoding has had significant progress and the chapter ends by highlighting some important insights we have gained so far."
@@ -34,6 +35,8 @@ tags:
 featured: false
 
 links:
+- DOI
+  url: https://dx.doi.org/10.4324/9781003145790-2
 - name: PsyArXiv preprint
   url: https://psyarxiv.com/a4vxm/
 url_pdf: 
