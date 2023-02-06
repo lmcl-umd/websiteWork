@@ -4,7 +4,7 @@ title: "Grammatical Encoding"
 authors:
 - bob
 
-date: "2023-01-30"
+date: "2023-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,7 @@ tags:
 featured: false
 
 links:
-- DOI
+- name: DOI
   url: https://dx.doi.org/10.4324/9781003145790-2
 - name: PsyArXiv preprint
   url: https://psyarxiv.com/a4vxm/

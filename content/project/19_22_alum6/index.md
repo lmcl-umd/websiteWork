@@ -21,7 +21,4 @@ links:
 #   Otherwise, set `slides = ""`.
 slides:
 ---
-- Sam Santomartino
-- Haley Tosh
-- Alejandro Valdés
-- Brooke Wexler
+- Ali Zaidi

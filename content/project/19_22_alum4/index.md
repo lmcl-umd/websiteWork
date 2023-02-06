@@ -21,7 +21,6 @@ links:
 #   Otherwise, set `slides = ""`.
 slides:
 ---
-
 - Alex Medrano
 - Roxanna Meyssami
 - Maya Pasternak

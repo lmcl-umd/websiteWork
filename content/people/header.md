@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "LMCL Lab Members - Fall 2021"
-  # subtitle = "Lab Members - Fall 2021"
+title = "LMCL Lab Members - Spring 2023"
+  # subtitle = "Lab Folks"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
