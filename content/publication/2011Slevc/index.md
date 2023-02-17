@@ -38,8 +38,8 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.ncbi.nlm.nih.gov/pubmed/21767058
+- name: PubMed
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3199029/
 - name: Stimuli
   url: https://github.com/bobsthinktank/stimuli/tree/main/stimuli_sets/Slevc_2011_pic_stimuli
 

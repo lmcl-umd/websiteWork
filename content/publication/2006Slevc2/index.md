@@ -37,9 +37,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.sciencedirect.com/science/article/pii/S0749596X05001324?via%3Dihub
-
 url_pdf: http://lmcl.umd.edu/pubs/Slevc_Ferreira_06.pdf
 url_code: ''
 url_dataset: ''

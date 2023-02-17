@@ -7,7 +7,7 @@ authors:
 - Erin S. Rogers
 
 date: "2005-07-01T00:00:00Z"
-doi: "doi.org/10.1016/j.cognition.2004.09.002"
+doi: "10.1016/j.cognition.2004.09.002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -39,9 +39,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.sciencedirect.com/science/article/pii/S0010027704001684?via%3Dihub
-
 url_pdf: http://lmcl.umd.edu/pubs/Ferreira_etal_05.pdf
 url_code: ''
 url_dataset: ''

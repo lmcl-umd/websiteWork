@@ -5,7 +5,7 @@ authors:
 - Aniruddh D.Patel
 
 date: "2011-06-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.plrev.2011.05.003"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -33,9 +33,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.sciencedirect.com/science/article/pii/S1571064511000431?via%3Dihub
-
 url_pdf: http://lmcl.umd.edu/pubs/slevc_patel_11.pdf
 url_code: ''
 url_dataset: ''

@@ -5,7 +5,7 @@ authors:
 - bob
 
 date: "2012-01-01T00:00:00Z"
-doi: ""
+doi: "10.1016/B978-0-323-07201-4.00018-0"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -34,9 +34,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://evolve.elsevier.com/cs/product/9780323072014?role=faculty
-
 url_pdf:
 url_code: ''
 url_dataset: ''

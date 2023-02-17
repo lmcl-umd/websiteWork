@@ -8,7 +8,7 @@ authors:
 - Laura Schreibman
 
 date: "2006-05-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.jcomdis.2005.12.002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -37,9 +37,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.sciencedirect.com/science/article/abs/pii/S0021992406000037?via%3Dihub
-
 url_pdf:
 url_code: ''
 url_dataset: ''

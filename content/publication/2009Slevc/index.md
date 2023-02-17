@@ -35,9 +35,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://link.springer.com/article/10.3758/16.2.374
-
 url_pdf: http://lmcl.umd.edu/pubs/slevc_etal_09.pdf
 url_code: ''
 url_dataset: ''

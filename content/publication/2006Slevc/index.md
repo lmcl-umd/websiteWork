@@ -37,9 +37,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01765.x
-
 url_pdf: http://lmcl.umd.edu/pubs/Slevc_Miyake_06.pdf
 url_code: ''
 url_dataset: ''
