@@ -5,7 +5,7 @@ authors:
 - bob
 
 date: "2023-01-01"
-doi: ""
+doi: "10.4324/9781003145790-2"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Hartsuiker & Strijkers (Eds.), *Language Production* (1st ed.), London: Routledge."
+publication: "In Hartsuiker & Strijkers (Eds.), *Language Production* (pp. 4-31), London: Routledge."
 
 publication_short: ""
 
@@ -35,8 +35,6 @@ tags:
 featured: false
 
 links:
-- name: DOI
-  url: https://dx.doi.org/10.4324/9781003145790-2
 - name: PsyArXiv preprint
   url: https://psyarxiv.com/a4vxm/
 url_pdf: 

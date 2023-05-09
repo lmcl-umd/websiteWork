@@ -2,7 +2,7 @@
 title: "Speech perception, rapid temporal processing, and the left hemisphere: A case study of unilateral pure word deafness"
 authors:
 - bob
-- Randi C.Martin
+- Randi C. Martin
 - A. Cris Hamilton 
 - Marc F. Joanisse
 
