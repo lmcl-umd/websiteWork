@@ -7,7 +7,7 @@ authors:
 - Cassandra L. Jacobs
 - bob
 
-date: "2023-05-01"
+date: "2023-05-11"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in *Quarterly Journal of Experimental Psychology*"
+publication: "Registered Report to appear in *Quarterly Journal of Experimental Psychology*"
 
 publication_short: ""
 
