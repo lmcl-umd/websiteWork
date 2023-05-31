@@ -20,7 +20,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Registered Report to appear in *Quarterly Journal of Experimental Psychology*"
+publication: "Registered Report to appear in *Quarterly Journal of Experimental Psychology*" 
 
 publication_short: ""
 
