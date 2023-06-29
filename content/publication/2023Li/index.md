@@ -8,7 +8,7 @@ authors:
 - bob
 
 date: "2023-05-11"
-doi: ""
+doi: "https://doi.org/10.1177/17470218231187027"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -21,7 +21,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Registered Report to appear in *Quarterly Journal of Experimental Psychology*" 
-
+ 
 publication_short: ""
 
 abstract: "Most research on mental lexical representations (lemmas) assumes they are discrete and correspond in number to a word’s number of distinct meanings. Thus, homophones (bat), whose meanings are unrelated, have separate lemmas for each meaning (one for baseball bat, another for flying bat), whereas polysemes (paper), whose senses are related, have shared lemmas (the same lemma for printer paper and term paper). However, most aspects of cognition are thought to be graded, not discrete; could lemmas be graded too? We conducted a preregistered picture-word interference study with pictures of words whose meanings ranged from unrelated (homophones) to very related (regular polysemes). Whereas semantic competitors to picture names slow picture naming, semantic competitors to non-depicted meanings of homophones facilitate naming, suggesting distinct lemmas for homophones’ meanings (Cutting & Ferreira, 1999). We predicted that competitors to non-depicted senses of polysemes would slow naming, since polysemes’ depicted and non-depicted senses presumably share a lemma. Crucially, we aimed to examine the transition from facilitation to inhibition: two groupings (where competitors to non-depicted senses led to facilitation for words with two lemmas but inhibition for words with one lemma) would imply that lemmas are indeed discrete. But a transition that varies continuously by sense relatedness would imply that lemmas are graded. Unexpectedly, competitors to non-depicted senses of both homophones and polysemes facilitated naming. Although these results do not indicate whether lemmas are graded or discrete, they do inform a longstanding question on the nature of polysemes, supporting a multiple-lemma (vs. core-lemma) account."
@@ -41,6 +41,8 @@ featured: false
 links:
 - name: PsyArXiv preprint
   url: https://psyarxiv.com/jxhuk
+- name: OSF
+  url: https://osf.io/rs4zv/
 url_pdf: 
 url_code: ''
 url_dataset: ''
