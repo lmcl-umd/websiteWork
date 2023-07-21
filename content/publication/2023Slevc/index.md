@@ -17,7 +17,7 @@ publishDate: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Hartsuiker & Strijkers (Eds.), *Language Production* (pp. 4-31), London: Routledge."
+publication: "In Hartsuiker & Strijkers (Eds.), *Language Production* (pp. 4-31), London: Routledge"
 
 publication_short: ""
 
