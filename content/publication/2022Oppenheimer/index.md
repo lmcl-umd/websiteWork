@@ -1,5 +1,5 @@
 ---
-title: "Taking language science to zoom school: Virtual outreach to elementary school students "
+title: "Taking language science to zoom school: Virtual outreach to elementary school students"
 
 authors:
 - Kathleen E. Oppenheimer
