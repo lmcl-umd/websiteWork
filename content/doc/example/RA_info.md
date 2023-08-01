@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-We've complied lots of relevant information for research assistants in the lab into a syllabus for PSYC 479 / NEUR 379 / NEUR 479. This is, of course, highly relevant if you're enrolled in one of these courses, but most of this info applies also to RAs who are not working for course credit. Please take a look! 
+We've complied some relevant information for research assistants in the lab into a syllabus for PSYC 479 / NEUR 379 / NEUR 479. This is, of course, highly relevant if you're enrolled in one of these courses, but most of this info applies also to RAs who are not working for course credit. Please take a look! 
 
 **NEUR 379 / NEUR 479 / PSYC 479 –**
 \
@@ -23,13 +23,13 @@ We've complied lots of relevant information for research assistants in the lab i
 **Syllabus for [Language and Music Cognition Lab](https://lmcl-umd.github.io/) Research Assistants**
 \
 \
-***Main lab location:*** BPS 3150
+***Main lab location:*** Cole Field House 0216
 \
 ***Instructor / Lab PI:*** Dr. [L. Robert Slevc](https://psyc.umd.edu/facultyprofile/slevc/l-robert) (he/him) – [slevc@umd.edu](mailto:slevc@umd.edu)
 
 **Course Description**
 
-This directed study will provide the opportunity to participate in behavioral and/or neuroscientific research projects in the [UMD Language and Music Cognition Lab](https://lmcl-umd.github.io/).
+This directed study will provide the opportunity to participate in behavioral and/or neuroscientific research projects in the [UMD Language and Music Cognition Lab](https://lmcl-umd.github.io/). 
 
 The specific projects you will be involved with will be based on your interests and background combined with the needs of current projects. Your specific responsibilities will also vary depending on the stage of the relevant research project. You might assist with behavioral, EEG, and/or MEG data collection (including preparing for participant lab visits and cleaning up afterwards), recruiting and scheduling participants, data coding, data entry, and/or assisting with data analyses. You may also be asked to perform literature searches, write reports of research findings, and write short blogposts for a general audience on recent research relevant to the lab.
 
@@ -44,7 +44,7 @@ By assisting with research in our lab, you will gain technical and theoretical r
 
 **Supervisors**
 
-Your primary research mentor is Dr. Slevc, the lab&#39;s PI. However, your immediate supervisor / research mentor may be a graduate student or postdoc depending on the specific projects you are working on. Research mentors will supervise your work and are available for lab-related and other questions.
+Your primary research mentor is Dr. Slevc, the lab&#39;s PI. However, your immediate supervisor / research mentor may be a [graduate student or postdoc](https://lmcl-umd.github.io/people/) depending on the specific projects you are working on. Research mentors will supervise your work and are available for lab-related and other questions.
 
 **Course Requirements**
 
@@ -63,7 +63,7 @@ Various other training courses and/or meetings may be required depending on the 
 
 3. ***Reading assignments***. You will periodically be asked to read materials related to your projects in the lab and/or about psycholinguistic / neurolinguistic research more generally. You may also be asked to read and comment on lab members&#39; work-in-progress, workshop presentations, etc. When lab work is relatively slow (e.g., because of minimal participant signups), a good use of time is to catch up on the background reading listed below and on past published work from the lab (linked on the lab webpage).
 
-4. ***Weekly lab meetings.*** Weekly lab meetings are required and count towards your total hours in the lab. These meetings provide opportunities to discuss ongoing research projects, giving you greater context for the projects you are working on. These also are valuable in that other lab members can get feedback from you and other lab members on their work. We also may use these meetings to discuss papers or topics of professional development. We welcome suggestions and requests for these meetings. Meeting times are not yet scheduled for the Spring, 2023, semester (but stay tuned). 
+4. ***Weekly lab meetings.*** Weekly lab meetings are required and count towards your total hours in the lab. These meetings provide opportunities to discuss ongoing research projects, giving you greater context for the projects you are working on. These also are valuable in that other lab members can get feedback from you and other lab members on their work. We also may use these meetings to discuss papers or topics of professional development. We welcome suggestions and requests for these meetings. Meeting times are not yet scheduled for the Fall, 2023, semester (but stay tuned). 
 
 5. ***Final assignment.*** The &quot;standard&quot; final assignment is to contribute at least one post to [the lab&#39;s blog](https://medium.com/langmuscoglab). This post should describe the findings of some resent research that you find interesting and is related (at least tangentially) to the lab&#39;s work (i.e., a recent primary source article about language and/or music perception/cognition). It should target an intelligent, but non-expert, audience and, ideally, should also refer to additional relevant sources. More details and some resources for this assignment are posted [here](https://lmcl-umd.github.io/doc/example/bloginfo/).
 \
@@ -107,4 +107,4 @@ Students are encouraged to consider presenting either their independent research
 
 [1](#sdfootnote1anc) Often it is not possible to find a time for lab meeting where everyone is available, in which case we prioritize new lab members and lab members who were not able to meet at a lab meeting the last semester. If this leaves you unable to attend, then of course lab meeting attendance is not required.
 
-Last edit 1/9/23
+Last edit 8/1/23
