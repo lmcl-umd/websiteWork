@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Hanna-Sophia Shine
+name: Chiara Sforza
 
 # Username (this should match the folder name)
 authors:
-- shine
+- sforza
 
 # Is this the primary user of the site?
 superuser: false
@@ -30,7 +30,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: hshine@terpmail.umd.edu
+  link: csforza@terpmail.umd.edu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -39,11 +39,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "hshine@terpmail.umd.edu"
+email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Research Assistants
 ---
-Hanna-Sophia Shine is a senior at the University of Maryland. She is getting her B.S. in Psychology and minoring in Classical Mythology. Hanna-Sophia is currently being mentored by Dr. Slevc for her honors thesis which explores the influence of accent prestige on the frequency of lexical and syntactic alignment in conversations between a foreign-accented English speaker and a native English speaker.
+Chiara Sforza is a sophomore who is a double major in Psychology and Anthropology, and is also part of the Honor Global Communities program. As a career she is interested in Clinical Psychology and wants to pursue a PhD.

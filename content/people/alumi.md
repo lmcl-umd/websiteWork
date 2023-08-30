@@ -21,9 +21,14 @@ subtitle = "<b>*</b> indicates honors"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 1
   
+  #[[content.filter_button]]
+    #name = "All"
+    #tag = "*"
+  
   [[content.filter_button]]
-    name = "All"
-    tag = "*"
+    name = "2023-2024"
+    tag = "2023-2024"
+    year = "2023-2024"
   
   [[content.filter_button]]
     name = "2019-2022"
