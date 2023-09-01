@@ -46,4 +46,4 @@ email: ""
 user_groups:
 - Research Assistants
 ---
-Clara Tuske is a sophomore majoring in Psychology and a member of the University Honors Program. She hopes to continue her education after undergraduate by pursuing a medical degree.
+Clara Tuske is a sophomore majoring in Psychology and a member of the University Honors Program. She hopes to continue her education after undergraduate by pursuing a medical degree. 
