@@ -27,9 +27,13 @@ You could find recent interesting and relevant work in lots of ways. If you have
 
 - [Brain & Language](https://www.journals.elsevier.com/brain-and-language)
 - [Cognition](https://www.sciencedirect.com/journal/cognition)
+- [Collabra: Psychology](https://online.ucpress.edu/collabra)
+- [Glossa Psycholinguistics](https://escholarship.org/uc/glossapsycholinguistics)
+- [Journal of Cognition](https://journalofcognition.org/)
 - [Journal of Cognitive Neuroscience](https://www.mitpressjournals.org/ljoi/jocn)
 - [JEP:LMC](https://psycnet.apa.org/PsycARTICLES/journal/xlm/45/11) or [JEP:HPP](https://psycnet.apa.org/PsycARTICLES/journal/xhp/45/11) (note that you'll annoyingly have to dig around [PsycINFO](https://www.lib.umd.edu/dbfinder/id/UMD01529) to get access to these articles)
 - [Language, Cognition and Neuroscience](https://www.tandfonline.com/toc/plcp21/current)
+- [Music Perception](https://online.ucpress.edu/mp)
 - [Neuropsychologia](https://www.journals.elsevier.com/neuropsychologia)
 - [Psychological Science](https://journals.sagepub.com/home/pss)
 - [Psychology of Music](https://journals.sagepub.com/home/pom)
