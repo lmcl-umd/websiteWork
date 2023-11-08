@@ -3,7 +3,7 @@ title: The LMCL Blog
 linktitle: Blog
 toc: true
 type: docs
-date: "2019-05-05T00:00:00+01:00"
+date: "2023-11-07T00:00:00+01:00"
 draft: false
 menu:
   example:
@@ -25,6 +25,7 @@ Ideally, these posts should:
 
 You could find recent interesting and relevant work in lots of ways. If you have a topic in mind, try [google scholar](http://scholar.google.com/) (I suggest you constrain your search to the last year or two). If you have an older paper you're interested in, try a cited reference search (click "Cited by..." under the google scholar result for that paper) to see if there's some newer relevant research that you could include. And if you don't yet have a topic in mind, try browsing recent tables of contents from some journals that publish relevant research -- here are some suggestions (though definitely not an exhaustive list - and note that you may need on-campus or proxy access to get some of these journals): 
 
+- [Bilingualism: Language and Cognition](https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/)
 - [Brain & Language](https://www.journals.elsevier.com/brain-and-language)
 - [Cognition](https://www.sciencedirect.com/journal/cognition)
 - [Collabra: Psychology](https://online.ucpress.edu/collabra)
