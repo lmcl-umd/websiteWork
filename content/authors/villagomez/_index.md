@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Michael Egan
+name: Sofia Villagomez
 
 # Username (this should match the folder name)
 authors:
-- egan
+- villagomez
 
 # Is this the primary user of the site?
 superuser: false
@@ -30,7 +30,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:megan123@terpmail.umd.edu
+  link: svillago@terpmail.umd.edu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -39,11 +39,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "miaclulli@gmail.com"
+email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Research Assistants
 ---
-Michael is a senior at the University of Maryland studying Neuroscience. He has aspirations to pursue a medical degree after completing his undergraduate studies. In his free time he likes to read, play soccer, and is currently learning bass guitar.
+Sofia Villagomez is majoring in biology and minoring in Spanish with the hopes of pursuing a career as a dentist. Part of her family is from Ecuador, so as a bilingual, she is very interested in the real world application and science behind code switching. In her free time she enjoys playing tennis, crocheting, and exploring!

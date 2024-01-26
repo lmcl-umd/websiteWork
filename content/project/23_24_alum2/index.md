@@ -21,4 +21,7 @@ links:
 #   Otherwise, set `slides = ""`.
 slides:
 ---
-- Hanna-Sophia Shine*
+- Roxanna Bakhtiari
+- Michael Egan
+- Dominic Marcinelli
+- Jeymi Menendez 

@@ -5,7 +5,7 @@ authors:
 - andres
 - bob
 
-date: "2023-01-09T00:00:00Z"
+date: "2024-01-25T00:00:00Z"
 doi: "https://doi.org/10.1037/xlm0001230"
 
 # Schedule page publish date (NOT publication's date).
