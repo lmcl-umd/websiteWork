@@ -18,7 +18,7 @@ doi: "https://doi.org/10.1037/xlm0001230"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Experimental Psychology: Learning, Memory, and Cognition*"
+publication: "*Journal of Experimental Psychology: Learning, Memory, and Cognition, 50(3)*, 500-508"
 publication_short: ""
 
 abstract: Interpreting a sentence can be characterized as a rational process in which comprehenders integrate linguistic input with top-down knowledge (e.g., plausibility). One type of evidence for this is that comprehenders sometimes reinterpret sentences to arrive at interpretations that conflict with the original language input (e.g., Ferreira, 2003; Gibson et al., 2013). Does this reflect a reinterpretation of only the message, or also of earlier stages of linguistic representation such as the syntactic parse? The present study relies both on comprehension questions as a measure of the eventual interpretation (as in past work) and on syntactic priming as an implicit measure of the eventual parse of a sentence. Plausible dative sentences yielded a classic syntactic priming effect. Implausible dative sentences, for which a plausible alternative version corresponded to the alternate dative structure, not only tended to be interpreted as the plausible alternative, but also showed no priming effect from the perceived syntactic structure. These results suggest that the plausibility of a message can not only impact the interpretation of a perceived sentence, but also its underlying syntactic representation.
