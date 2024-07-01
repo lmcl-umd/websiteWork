@@ -34,9 +34,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12402
-
 url_pdf: http://lmcl.umd.edu/pubs/Li_Slevc_2017.pdf
 url_code: ''
 url_dataset: ''

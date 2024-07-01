@@ -36,7 +36,7 @@ tags:
 featured: false
 
 links:
-- name: PsyArXiv preprint
+- name: Preprint
   url: https://psyarxiv.com/hn536/
 - name: OSF
   url: https://osf.io/dvxkf/

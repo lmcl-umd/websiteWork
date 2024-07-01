@@ -6,7 +6,7 @@ authors:
 - Jared A. Linck
 
 date: "2016-02-01T00:00:00Z"
-doi: ""
+doi: "10.1080/20445911.2016.1152274"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -35,8 +35,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1152274
 - name: write-up on the APS Observer Online
   url: https://www.psychologicalscience.org/publications/observer/obsonline/the-challenges-of-being-bilingual.html
 

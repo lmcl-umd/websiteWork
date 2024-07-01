@@ -37,9 +37,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.tandfonline.com/doi/full/10.1080/20445911.2016.1202252
-
 url_pdf: http://lmcl.umd.edu/pubs/slevc_martin_2016.pdf
 url_code: ''
 url_dataset: ''

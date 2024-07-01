@@ -35,8 +35,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01594/full#h1
 url_pdf:
 url_code: ''
 url_dataset: ''

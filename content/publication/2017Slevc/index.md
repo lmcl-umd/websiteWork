@@ -5,7 +5,7 @@ authors:
 - Iva Ivanova
 
 date: "2017-11-01T00:00:00Z"
-doi: ""
+doi: "10.1017/S0140525X17000589"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -34,9 +34,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/relationship-between-priming-and-linguistic-representations-is-mediated-by-processing-constraints/8EE9DF1B96ED42EC8AA01F44DB5485B7#
-
 url_pdf:
 url_code: ''
 url_dataset: ''

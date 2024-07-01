@@ -31,8 +31,6 @@ tags:
 featured: false
 
 links:
-- name: DOI
-  url: https://doi.org/10.1086/677598
 url_pdf:
 url_code: ''
 url_dataset: ''

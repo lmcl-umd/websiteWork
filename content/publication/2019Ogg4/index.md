@@ -38,9 +38,7 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.sciencedirect.com/science/article/abs/pii/S1053811919300813?via%3Dihub#kwrds0010
-- name: PsyArXiv preprint
+- name: Preprint
   url: https://psyarxiv.com/q2fjm
 url_pdf:
 url_code: ''

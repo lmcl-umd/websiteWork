@@ -34,9 +34,7 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://link.springer.com/article/10.3758%2Fs13421-018-0822-8
-- name: PsyArXiv preprint 
+- name: Preprint 
   url: https://psyarxiv.com/ymn5c/
 - name: write-up on the Psychonomic Society blog
   url: https://featuredcontent.psychonomic.org/as-easy-as-do-re-mi-is-there-a-correlation-between-musical-ability-and-executive-function/

@@ -40,9 +40,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.tandfonline.com/doi/abs/10.1080/02687038.2019.1650159?journalCode=paph20
-
 url_pdf: 
 url_code: ''
 url_dataset: ''

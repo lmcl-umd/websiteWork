@@ -7,7 +7,7 @@ authors:
 - Susanne M. Jaeggi
 
 date: "2016-07-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.cognition.2016.03.017"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -37,9 +37,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.sciencedirect.com/science/article/pii/S0010027716300725?via%3Dihub
-
 url_pdf: http://lmcl.umd.edu/pubs/slevc_etal_2016.pdf
 url_code: ''
 url_dataset: ''

@@ -6,7 +6,7 @@ authors:
 - bob
 
 date: "2018-11-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.jneuroling.2017.12.005"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -38,9 +38,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.sciencedirect.com/science/article/pii/S0911604417301070?via%3Dihub
-
 url_pdf:
 url_code: ''
 url_dataset: ''

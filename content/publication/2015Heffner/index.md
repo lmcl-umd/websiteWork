@@ -5,7 +5,7 @@ authors:
 - bob
 
 date: "2015-12-01T00:00:00Z"
-doi: ""
+doi: "10.3389/fpsyg.2015.01962"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -38,10 +38,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01962/full#h8
-
-
 url_pdf:
 url_code: ''
 url_dataset: ''

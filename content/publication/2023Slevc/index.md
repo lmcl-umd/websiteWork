@@ -35,7 +35,7 @@ tags:
 featured: false
 
 links:
-- name: PsyArXiv preprint
+- name: Preprint
   url: https://psyarxiv.com/a4vxm/
 url_pdf: 
 url_code: ''

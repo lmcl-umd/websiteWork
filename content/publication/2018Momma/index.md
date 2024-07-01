@@ -6,7 +6,7 @@ authors:
 - Colin Phillips
 
 date: "2018-01-01T00:00:00Z"
-doi: ""
+doi: "10.1162/LING_a_00271"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -35,9 +35,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.mitpressjournals.org/doi/abs/10.1162/LING_a_00271
-
 url_pdf: http://www.colinphillips.net/wp-content/uploads/2018/01/momma2018-unaccusative.pdf
 url_code: ''
 url_dataset: ''

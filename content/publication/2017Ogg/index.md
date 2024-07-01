@@ -6,7 +6,7 @@ authors:
 - William J. Idsardi
 
 date: "2017-12-01T00:00:00Z"
-doi: ""
+doi: "10.1121/1.5014057"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -36,9 +36,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://asa.scitation.org/doi/10.1121/1.5014057
-
 url_pdf:
 url_code: ''
 url_dataset: ''

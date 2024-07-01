@@ -33,7 +33,7 @@ tags:
 featured: false
 
 links:
-- name: PsyArXiv preprint
+- name: Preprint
   url: https://psyarxiv.com/2quzn/
 
 url_pdf:

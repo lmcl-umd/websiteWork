@@ -36,8 +36,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.tandfonline.com/doi/full/10.1080/25742442.2019.1626686
 url_pdf: ''
 url_code: ''
 url_dataset: ''

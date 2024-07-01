@@ -37,7 +37,7 @@ tags:
 featured: false
 
 links:
-- name: PsyArXiv preprint
+- name: Preprint
   url: https://psyarxiv.com/57a9w/
 url_pdf: 
 url_code: ''

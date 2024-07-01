@@ -40,7 +40,7 @@ tags:
 featured: false
 
 links:
-- name: PsyArXiv preprint
+- name: Preprint
   url: https://psyarxiv.com/jxhuk
 - name: OSF
   url: https://osf.io/rs4zv/

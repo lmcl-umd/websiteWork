@@ -36,7 +36,7 @@ tags:
 featured: false
 
 links:
-- name: PsyArXiv preprint
+- name: Preprint
   url: https://psyarxiv.com/f9ypt/
 url_pdf: 
 url_code: ''

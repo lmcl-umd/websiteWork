@@ -9,8 +9,7 @@ authors:
 - Weijun Li
 
 date: "2024-06-30T00:00:00Z"
-#doi: "https://doi.org/10.1016/j.bandl.2024.105439"
-doi: "https://authors.elsevier.com/c/1jLUq,28iJisPk"
+doi: "https://doi.org/10.1016/j.bandl.2024.105439"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -40,8 +39,10 @@ tags:
 featured: false
 
 links:
-#- name: OSF
-#url: https://osf.io/?/
+- name: Free until Aug 18
+  url: https://authors.elsevier.com/c/1jLUq,28iJisPk
+#- name: Preprint
+#  url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''

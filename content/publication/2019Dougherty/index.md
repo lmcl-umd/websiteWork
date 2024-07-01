@@ -6,7 +6,7 @@ authors:
 - James A. Grand
 
 date: "2019-01-01T00:00:00Z"
-doi: "10.31234/osf.io/48qux"
+doi: "10.1177/1745691618810693"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -35,10 +35,10 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://journals.sagepub.com/doi/abs/10.1177/1745691618810693?journalCode=ppsa
-- name: PsyArXiv preprint
+- name: Preprint
   url: https://psyarxiv.com/48qux/
+- name: OSF
+  url: https://osf.io/cnb82/
 url_pdf:
 url_code: ''
 url_dataset: ''

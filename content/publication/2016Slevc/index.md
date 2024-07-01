@@ -37,9 +37,6 @@ tags:
 featured: false
 
 links:
-- name: Journal
-  url: https://www.tandfonline.com/doi/full/10.1080/13554794.2016.1177090
-
 url_pdf: http://lmcl.umd.edu/pubs/slevc_etal_2016b.pdf
 url_code: ''
 url_dataset: ''
