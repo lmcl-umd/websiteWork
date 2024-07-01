@@ -41,8 +41,9 @@ featured: false
 links:
 #- name: OSF
 #url: https://osf.io/?/
-- name: free access (until 8/18)
-url_pdf: https://authors.elsevier.com/c/1jLUq,28iJisPk
+- name: free until 8-18
+url: https://authors.elsevier.com/c/1jLUq,28iJisPk
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
