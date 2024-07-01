@@ -21,7 +21,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Quarterly Journal of Experimental Psychology*" 
+publication: "*Quarterly Journal of Experimental Psychology, 77(5),* 909-923" 
  
 publication_short: ""
 
