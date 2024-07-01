@@ -42,8 +42,8 @@ links:
 #- name: OSF
 #url: https://osf.io/?/
 - name: free until 8-18
-url: https://authors.elsevier.com/c/1jLUq,28iJisPk
-url_pdf: ''
+	url: https://authors.elsevier.com/c/1jLUq,28iJisPk
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
