@@ -21,9 +21,11 @@ bio:
 
 interests:
 
-#education:
-#  courses:
-
+education:
+  courses:
+  - course: PhD in Psychology
+    institution: University of Maryland, College Park
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

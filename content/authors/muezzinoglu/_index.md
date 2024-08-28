@@ -1,27 +1,31 @@
 ---
 # Display name
-name: Mia Lulli
+name: Mine Muezzinoglu
 
 # Username (this should match the folder name)
 authors:
-- lulli
+- mine
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
 
+education:
+  courses:
+  - course: BA in Neuroscience & French
+    institution: Vanderbilt University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -30,7 +34,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:miaclulli@gmail.com
+  link: mailto:mmuezzin@umd.edu
+- icon: user
+  icon_pack: fa
+  link: https://nacs.umd.edu/gradprofile/muezzinoglu/mine
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -39,11 +46,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "miaclulli@gmail.com"
+email: "mmuezzin@umd.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Assistants
+- Graduate Students and Postdocs
 ---
-Mia Lulli is an undergraduate at the University of Maryland double majoring in Psychology and Spanish. She is fascinated by how her two interests overlap, specifically in language processing and second language acquisition. 
+Mine is a graduate student in NACS, co-advised by [Dr. Rochelle Newman](https://hesp.umd.edu/facultyprofile/newman/rochelle). Her research interests focus on language processing and acquisition, and she is particularly interested in the relationship between language development and music cognition.

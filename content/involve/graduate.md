@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "Graduate Studies"
-subtitle = "Interested in pursuing graduate level work with us? You can apply via the Psychology or the Neuroscience and Cognitive Science (NACS) PhD program. <br><br>Note that we are not recruiting PhD students for Fall 2024."
+subtitle = "Interested in pursuing graduate level work with us? You can apply via the Psychology or the Neuroscience and Cognitive Science (NACS) PhD program. <br><br>Note that we are not recruiting PhD students for Fall 2025."
 
 # Showcase personal skills or business features.
 # 

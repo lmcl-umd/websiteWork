@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role:
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -21,10 +21,11 @@ bio:
 
 interests:
 
-#education:
-#  courses:
-
-
+education:
+  courses:
+  - course: PhD in Neuroscience and Cognitive Science
+    institution: University of Maryland, College Park
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "LMCL Lab Members - Fall 2023"
+title = "LMCL Lab Members - Fall 2024"
   # subtitle = "Lab Folks"
 
 [design]

@@ -39,8 +39,6 @@ tags:
 featured: false
 
 links:
-- name: Free until Aug 18
-  url: https://authors.elsevier.com/c/1jLUq,28iJisPk
 #- name: Preprint
 #  url: ''
 url_pdf: ''

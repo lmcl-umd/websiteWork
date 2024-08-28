@@ -21,9 +21,11 @@ bio:
 
 interests:
 
-#education:
-#  courses:
-
+education:
+  courses:
+  - course: PhD in Psychology
+    institution: University of Maryland, College Park
+    year: 2018
 
 
 # Social/Academic Networking
@@ -50,4 +52,4 @@ email: ""
 user_groups:
 - PhD and Postdoc Alumni
 ---
-Brooke Okada completed her Ph.D. in Psychology in August, 2018 (dissertation title: Toward a comprehensive model of musical ability). She is currently a data analyst at [Outschool](https://outschool.com/).
+Brooke Okada completed her Ph.D. in Psychology in August, 2018 (dissertation title: Toward a comprehensive model of musical ability). She is currently a Data Analytics and Research Consultant at [Byte Elevate](https://byteelevate.com/).

@@ -21,4 +21,7 @@ links:
 #   Otherwise, set `slides = ""`.
 slides:
 ---
+- Mia Lulli
+- Julieta Magud
+- Chiara Sforza
 - Hanna-Sophia Shine*
